@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "ngạt mũi",
+    "explanation": "Vẽ một cái mũi người đang bị 'ngạt' (bị chặn/nghẹt thở). Có thể thể hiện bằng cách có một vật cản vô hình hoặc một biểu tượng chặn luồng không khí ngay lỗ mũi, làm mũi khó thở.",
+    "imagePrompt": "A close-up 3D render of a stylized human nose, slightly red and looking uncomfortable. Visible in front of the nostrils are two small, transparent, block-shaped air barriers, visually indicating blocked airflow. A few small, stylized sweat droplets appear on the bridge of the nose, suggesting difficulty. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cua đinh",
+    "explanation": "Vẽ một con rùa (hoặc cua) với những chiếc đinh ghim nhọn hoắt (nail/spike) nhô ra từ mai của nó.",
+    "imagePrompt": "A 3D render of a cute, stylized freshwater turtle (cua) with a greenish-brown shell. Instead of typical patterns, the shell is adorned with several prominent, shiny silver nails (đinh) sticking out evenly across its surface. The turtle has large, friendly eyes and and is smiling slightly. It is standing on a smooth, stylized rock. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "lem lẻm",
+    "explanation": "Vẽ một khuôn mặt hoạt hình với nụ cười 'lem lẻm' – một nụ cười nhếch mép, láu cá và có phần hơi tinh quái. Có thể thêm một vết bẩn nhỏ (lem) gần khóe miệng để gợi ý nghĩa 'lem'.",
+    "imagePrompt": "A close-up 3D render of a stylized, cartoon-like character's face, specifically focusing on the mouth and lower cheeks. The character has an exaggerated, mischievous smirk, with one corner of the mouth significantly pulled up. A small, subtle dark smudge appears on one cheek, just beside the corner of the smirking mouth. Vibrant colors, clear details, game mobile style. No text, no words, no letters."
+  },
+  {
+    "word": "nấu nung",
+    "explanation": "Kết hợp hình ảnh 'nấu' (nấu ăn) và 'nung' (nung gốm/nung kim loại). Vẽ một nồi đang sôi sùng sục trên bếp lửa lớn cạnh một lò nung gốm đang rực hồng.",
+    "imagePrompt": "A 3D render scene depicting a vibrant kitchen and a small workshop combined. On the left, a large, stylized cooking pot is boiling intensely over a cartoonish stove with bright orange flames licking its bottom. Steam billows from the pot. On the right, a small, stylized traditional kiln (lò nung) is glowing bright red from intense heat, with a ceramic pot visible inside its opening. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cá heo",
+    "explanation": "Vẽ một con vật lai giữa 'cá' (fish) và 'heo' (pig). Con vật có thân hình của cá nhưng có cái mũi và tai đặc trưng của lợn.",
+    "imagePrompt": "A 3D render of a whimsical, stylized creature swimming in clear blue water. It has the sleek, torpedo-shaped body and fins of a fish (cá), but with distinct, adorable features of a pig (heo) – specifically, a prominent pig snout and small, upright pig ears. The creature is smiling. Vibrant colors, clear details, game mobile style. No text, no words, no letters."
+  },
+  {
+    "word": "diễn giảng",
+    "explanation": "Vẽ một người đang 'diễn' (biểu diễn/diễn kịch) trên một sân khấu nhỏ, nhưng hành động của họ lại mang tính chất 'giảng' (giảng bài/thuyết trình) – ví dụ, tay cầm một cây gậy chỉ bảng và đang chỉ vào một biểu đồ lớn trong khi biểu cảm khuôn mặt rất kịch tính.",
+    "imagePrompt": "A 3D render of a stylized cartoon character, a male professor-type, standing on a small, elevated stage with a dramatic spotlight. He is wearing a formal yet slightly theatrical outfit (e.g., a cape or exaggerated gestures). He holds a long pointer stick and is gesturing emphatically towards a large, blank whiteboard or screen behind him (no text, just a visual element indicating a lecture setting). His facial expression is exaggerated, as if performing. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "sán khí",
+    "explanation": "Vẽ một con 'sán' (giun sán) hoạt hình, và từ thân của nó đang thoát ra những luồng 'khí' (khói/hơi nước) bay lên.",
+    "imagePrompt": "A 3D render of a friendly-looking, stylized cartoon worm (sán) with big eyes, wiggling on a flat surface. From various points along its body, small, translucent clouds of gas or vapor (khí) are visibly escaping and floating upwards. The gas is light blue or white, indicating air/gas. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "hội thí",
+    "explanation": "Vẽ một 'hội' (buổi họp mặt/tụ tập đông người) trong bối cảnh một kỳ 'thí' (thi cử). Có thể là nhiều người ngồi trong một phòng, mỗi người đều có một bài kiểm tra hoặc phiếu trả lời trước mặt và đang tập trung làm bài, trong khi một vài người khác đang trao đổi nhỏ hoặc giám sát.",
+    "imagePrompt": "A 3D render of a vibrant, stylized hall filled with many cartoon-like characters. They are seated at individual desks, each with a blank paper or tablet in front of them, intently focused as if taking an exam (thí). In the background, a few other characters (supervisors or other participants) are subtly interacting, forming a 'gathering' or 'association' (hội). The overall atmosphere suggests a formal test-taking environment. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "hát xoan",
+    "explanation": "Vẽ một nhóm người đang 'hát' (ca hát), và xung quanh họ có những cây 'xoan' đặc trưng với lá và hoa/quả.",
+    "imagePrompt": "A 3D render of a group of stylized cartoon characters, dressed in traditional Vietnamese-inspired attire, joyfully singing together. Their mouths are open in song, and musical notes visually emanate from them. They are gathered under and around several stylized 'xoan' trees, identifiable by their distinctive pinnate leaves and clusters of small purple flowers or round yellow fruits (similar to bead-like fruits). Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "sở thú",
+    "explanation": "Vẽ một 'sở' (văn phòng/cơ quan) nơi các 'thú' (động vật) đang làm việc hoặc quản lý. Có thể là các con vật mặc vest, ngồi bàn giấy, dùng máy tính, trông như một văn phòng công sở của động vật.",
+    "imagePrompt": "A 3D render of a vibrant, stylized office environment (sở) filled with various cartoon-like animals (thú). Animals like a lion, monkey, and elephant are depicted wearing miniature business attire (e.g., ties, tiny glasses) and sitting at desks, interacting with stylized office equipment like small computers or typewriters. The setting is clearly an office, but the 'employees' are animals. Game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "sẵn lòng",
+    "explanation": "Vẽ một trái tim đang trong tư thế sẵn sàng, có thể có một nút bật/tắt hoặc biểu tượng 'ready' (nhưng không phải chữ) để gợi ý 'sẵn' (ready) và 'lòng' (heart).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. In the center, a stylized, plump red heart with a glossy, smooth surface. The heart is depicted in an active, 'ready' posture, perhaps slightly elevated or with a subtle glow around it. A small, stylized green 'play' or 'on' symbol (without any letters) is subtly integrated onto its surface or hovering near it, indicating readiness. The background is simple and clean, emphasizing the heart. No text, no words, no letters."
+  },
+  {
+    "word": "minh tinh",
+    "explanation": "Vẽ một ngôi sao (tinh) đang phát sáng rực rỡ, chiếu ánh sáng rõ ràng (minh).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. The central focus is a large, five-pointed golden star, glowing intensely with bright, clear light rays emanating from its points. The star has a polished, reflective surface. The light brightens the surrounding area, creating a 'clear' effect. The background is dark but not black, allowing the star's brilliance to stand out. No text, no words, no letters."
+  },
+  {
+    "word": "ba không",
+    "explanation": "Vẽ ba biểu tượng 'cấm' hoặc 'không' (gạch chéo trong vòng tròn) xếp cạnh nhau, tượng trưng cho 'ba' (three) và 'không' (no/none).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. Three distinct, identical red circular 'no' symbols (a red circle with a diagonal line from top-left to bottom-right) are arranged horizontally in a row. They are floating slightly in a clean, minimalist environment. Each symbol is bold and clear. The background is a soft, neutral color that makes the red symbols pop. No text, no words, no letters."
+  },
+  {
+    "word": "biết đâu",
+    "explanation": "Vẽ một con mắt đang nhìn vào một dấu hỏi lớn, thể hiện sự tìm kiếm 'đâu' (where) và sự 'biết' (know) một cách nghi vấn.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A large, stylized eye with an inquisitive expression (perhaps a slightly raised eyebrow) is positioned on the left. On the right, a giant, glossy, white question mark stands prominently, slightly off-center from the eye. The eye seems to be 'looking at' or 'perceiving' the question mark. The background is soft and slightly blurred to keep focus on the main elements. No text, no words, no letters."
+  },
+  {
+    "word": "nắm đấm",
+    "explanation": "Vẽ một bàn tay đang nắm chặt lại thành nắm đấm, thể hiện hành động 'nắm' (to grasp) và 'đấm' (a punch/fist).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A strong, stylized human hand in the process of clenching tightly into a powerful fist. The fingers are clearly shown curling inward, and the knuckles are prominent. The action of 'grasping' is emphasized as the hand transitions into a 'punching' form. The arm below the fist is partially visible. The background is a simple, solid color to highlight the action. No text, no words, no letters."
+  },
+  {
+    "word": "ninh bình",
+    "explanation": "Vẽ một cái bình gốm (bình) đang được đun (ninh) trên bếp lửa nhỏ, khói nhẹ bốc lên để gợi ý từ 'ninh bình'.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. In the center, a traditional, stylized ceramic pot or vase ('bình') is placed on a small, gentle cooking stove with a soft, warm flame underneath. Wisps of steam are subtly rising from the top of the 'bình', indicating it is being 'ninh' (simmered). The background is a rustic, homely kitchen setting, but kept simple to focus on the objects. No text, no words, no letters."
+  },
+  {
+    "word": "đồn trại",
+    "explanation": "Vẽ một ngôi lều trại quân sự (trại) bên cạnh một trạm gác hoặc tháp canh (đồn).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. On the left, a sturdy, stylized military guard post or watchtower ('đồn') with a small window. On the right, a green, conical or rectangular military tent ('trại') with its flaps slightly open. Both elements are clearly rendered, suggesting a military compound. The setting is a slightly grassy, flat terrain. The background is a clear blue sky. No text, no words, no letters."
+  },
+  {
+    "word": "chèo phách",
+    "explanation": "Vẽ một mặt nạ hoặc nhân vật chèo truyền thống đang cầm một cặp phách tre (phách) gõ vào nhau, tượng trưng cho 'chèo' (opera) và 'phách' (clappers).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A stylized, colorful traditional Vietnamese Chèo opera mask or character head (without human body) is floating centrally. It features intricate patterns and bold colors. In front of it, two stylized bamboo clappers ('phách') are depicted mid-action, as if about to strike each other, showing a rhythmic movement. The background is a subtle stage-like setting, perhaps with stylized curtains. No text, no words, no letters."
+  },
+  {
+    "word": "lụn vụn",
+    "explanation": "Vẽ một vật thể (ví dụ: một khối gạch) đang vỡ vụn (lụn) thành nhiều mảnh nhỏ và rải rác (vụn) trên mặt đất.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A stylized, solid block-like object (e.g., a simple geometric stone block) is dramatically breaking apart. Many small, irregular fragments and crumbs ('vụn') are scattering around it and falling onto a flat surface below. The process of crumbling ('lụn') is clearly depicted. The background is plain and minimalist to focus on the breaking object. No text, no words, no letters."
+  },
+  {
+    "word": "kiều dân",
+    "explanation": "Vẽ một nhóm người (dân) đang đứng trên một bờ biển hoặc landmass, nhìn về phía chân trời nơi có hình bóng của một vùng đất xa xôi, tượng trưng cho người ở 'kiều' (nước ngoài/overseas) và 'dân' (people).",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A stylized group of diverse people ('dân') stands on a sandy beach or coastline in the foreground. They are looking out across a calm, blue body of water towards the horizon. In the distance, on the horizon line, the subtle silhouette of a distinct landmass (perhaps a city skyline or mountains) is visible, representing a 'foreign' or 'overseas' land. The focus is on the people gazing outward. The sky above is clear and expansive. No text, no words, no letters."
+  },
+  {
+    "word": "kính lão",
+    "explanation": "Vẽ một chiếc kính lão đặt bên cạnh hình ảnh một ông/bà lão thân thiện. (Kính = chiếc kính, Lão = người già)",
+    "imagePrompt": "A pair of stylish reading glasses (kính) resting on a polished wooden surface. Next to the glasses, a cartoonish, friendly elderly person's head (lão) with white hair and a kind smile is peeking from the side. The elderly person is looking gently towards the glasses. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "quân hành",
+    "explanation": "Vẽ một hàng ngũ lính đang diễu binh (quân) và bên cạnh là một củ hành tây hoặc hành lá xanh tươi (hành).",
+    "imagePrompt": "A line of stylized, marching soldiers in uniform (quân) with their arms swinging, depicted in a formation. Beside them, prominently displayed, is a large, vibrant green spring onion (hành) standing upright. The soldiers are marching past the onion. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "man muội",
+    "explanation": "Vẽ một người đàn ông nguyên thủy (man) với vẻ mặt ngây ngô và một cô bé nhỏ tuổi, ngây thơ (muội) đứng cạnh.",
+    "imagePrompt": "A cartoonish, muscular caveman (man) with a loincloth and a surprised, slightly confused expression, holding a club. Beside him, a small, innocent-looking girl (muội) with wide, curious eyes and a simple dress is looking up at him, also appearing slightly naive. Both characters are standing in a primitive, jungle-like setting. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "đắc địa",
+    "explanation": "Vẽ một người đang giơ tay ăn mừng trên đỉnh một ngọn đồi cao, tượng trưng cho sự 'đắc' (đạt được) một vị trí đẹp, 'địa' (địa điểm).",
+    "imagePrompt": "A stylized figure, looking triumphant, standing atop a beautiful, green hill (đắc địa). The figure has arms raised in a gesture of success or acquisition (đắc). Below the hill, a sprawling, picturesque landscape (địa) with rolling fields and a small river stretches out, bathed in golden sunlight. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "bà bợt",
+    "explanation": "Vẽ một bà lão (bà) với mái tóc bạc phơ, đang ngồi cạnh một tấm vải hoặc bức tường có màu sắc nhợt nhạt, bạc phếch (bợt).",
+    "imagePrompt": "A sweet, cartoonish old woman (bà) with a kind smile and white hair, dressed in a simple, traditional outfit. She is seated next to a visibly faded, pale blue fabric (bợt) draped over a worn wooden chair. The fabric appears washed out and dull. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "hồi tục",
+    "explanation": "Vẽ một mũi tên hình vòng cung hoặc biểu tượng quay trở lại (hồi) hướng về một đám đông người đang sinh hoạt vui vẻ, đời thường (tục).",
+    "imagePrompt": "A vibrant scene showing a circular arrow (hồi) indicating a return path. Inside the circle or at the destination of the arrow, a lively crowd of diverse people (tục) are engaged in everyday activities like chatting, laughing, and eating street food, representing secular life. The overall atmosphere is bustling and customary. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "tình thế",
+    "explanation": "Vẽ một trái tim đỏ (tình) nổi bật ở phía trước, phía sau là hình ảnh một quả địa cầu (thế) hoặc bản đồ thế giới.",
+    "imagePrompt": "A bright red, cartoonish heart (tình) floating prominently in the foreground. In the background, a simplified, vibrant globe (thế) of the Earth is visible, showing continents and oceans. The heart appears to be influencing or observing the world. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "lông theo",
+    "explanation": "Vẽ một chùm lông vũ (lông) đang bay nhẹ trong không khí, và một chiếc lá nhỏ đang bay lướt theo sau (theo) chúng.",
+    "imagePrompt": "A cluster of colorful, light feathers (lông) gently floating in the air, seemingly blown by a breeze. Behind them, a small, stylized leaf (theo) is visibly trailing, following the exact path of the feathers. The background is a soft blue sky. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "tủi duyên",
+    "explanation": "Vẽ một cô gái với vẻ mặt buồn bã, cúi đầu như đang tủi thân (tủi), đang nhìn vào một sợi chỉ đỏ (biểu tượng duyên phận) bị đứt hoặc rối.",
+    "imagePrompt": "A stylized, melancholic female figure (tủi) with her head bowed slightly, showing a sorrowful expression. Her hands are gently resting on a broken or tangled red string (duyên), a common symbol for fate in love, suggesting a disrupted romantic destiny. The background is soft and slightly muted to emphasize her emotion. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "ờn ợt",
+    "explanation": "Vẽ một nhân vật đang co ro, run rẩy (ờn ợt) với các đường gợn sóng xung quanh cơ thể để thể hiện sự rung động.",
+    "imagePrompt": "A cartoonish human figure, hunched over and visibly shivering (ờn ợt), with exaggerated wavy lines radiating from their body to emphasize the trembling motion. The figure's expression shows discomfort, possibly from cold or mild fear. The environment is slightly chilly-looking, perhaps with a gentle breeze. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "rập rềnh",
+    "explanation": "Ý tưởng: 'Rập' (từ dập khuôn, dập xuống) + 'Rềnh' (từ gợi tả sự lênh láng, chảy chậm của nước). Hình ảnh một cái khuôn (rập) lớn đang liên tục dập xuống một mặt chất lỏng (như nước hoặc thạch) đang rềnh lên, tạo ra các gợn sóng lặp đi lặp lại một cách nhịp nhàng.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A large, metallic, patterned mold (like a cookie cutter or stamp) is positioned directly above a vast, gently undulating, light blue liquid surface. The mold is depicted mid-action, just touching the liquid, creating a rhythmic ripple effect spreading outwards slowly. The scene is brightly lit with vibrant colors, emphasizing clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cá sặt",
+    "explanation": "Ý tưởng: 'Cá' (fish) + 'Sặt' (nghe giống 'sắt' - iron/metal). Vẽ một con cá được làm hoàn toàn bằng kim loại sắt.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A stylized fish, clearly identifiable as a fish shape, is entirely constructed from shiny, dark grey metallic iron. It features metallic scales and fins with clear details, swimming in a clear, stylized blue water. The scene is brightly lit with vibrant colors. No text, no words, no letters."
+  },
+  {
+    "word": "việt xuyên",
+    "explanation": "Ý tưởng: 'Việt' (người Việt Nam) + 'Xuyên' (hành động đi xuyên qua, đâm xuyên). Vẽ một nhân vật mang trang phục đặc trưng của người Việt Nam (áo dài hoặc nón lá) đang đi xuyên qua một vật cản lớn như bức tường ảo ảnh hoặc đám mây.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A character clearly identifiable as Vietnamese (e.g., wearing an Ao Dai or a conical hat, stylized for a game) is depicted in dynamic motion, actively 'piercing through' or 'passing through' a large, translucent, ethereal blue wall or a cloud-like barrier. The character's body is partially inside the barrier, clearly showing the action of penetration. The scene is brightly lit with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "thân cận",
+    "explanation": "Ý tưởng: 'Thân' (cơ thể, phần thân) + 'Cận' (gần, sát). Vẽ hai phần thân người (chỉ phần thân, không rõ mặt mũi tay chân) đứng rất sát nhau, gần như chạm vào nhau.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. Two stylized human torsos (without distinct heads or limbs, just smooth body shapes) are standing extremely close to each other, almost touching. They are simple, minimalist forms, perhaps in different vibrant colors like a bright blue and a warm red. The background is simple and clean. The scene is brightly lit with clear details. No text, no words, no letters."
+  },
+  {
+    "word": "đánh sập",
+    "explanation": "Ý tưởng: 'Đánh' (hành động đập, đánh) + 'Sập' (trạng thái đổ sập, vỡ vụn). Vẽ một bàn tay hoặc một cái búa lớn đang đập mạnh vào một công trình (ví dụ: tháp đồ chơi, tòa nhà nhỏ) khiến nó đổ sập và vỡ ra.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A large, cartoon-like, stylized hand (or a giant, simple mallet) is shown in mid-action, powerfully striking a small, block-built tower or a stylized building. The building is visibly collapsing, with blocks or pieces scattering dynamically in a clear, decisive 'fall down' motion. The scene is full of action with vibrant colors and clear details. Bright lighting. No text, no words, no letters."
+  },
+  {
+    "word": "phát bệnh",
+    "explanation": "Ý tưởng: 'Phát' (tỏa ra, phát ra) + 'Bệnh' (bệnh tật). Vẽ một hình người cách điệu đang có dấu hiệu ốm yếu (ví dụ: mặt xanh xao, cầm nhiệt kế), và từ cơ thể họ đang 'phát ra' những luồng khí hoặc hạt tượng trưng cho bệnh tật (như đám mây đen, khói độc).",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A stylized human figure, with a visibly pale or green tint (indicating sickness), is standing slightly hunched. From various points on their body (e.g., head, chest), dark, swirling, cloud-like, stylized 'sickness' particles or an aura are visibly 'emitting' or 'radiating' outwards. A simple, cartoon-like thermometer might be poking out of their mouth. The scene is brightly lit with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "danh thiếp",
+    "explanation": "Ý tưởng: 'Danh' (danh tiếng, tên tuổi) + 'Thiếp' (tấm thẻ, thiếp mời). Vẽ một tấm thẻ trống (giống danh thiếp) nhưng thay vì chữ, trên đó có các biểu tượng đại diện cho 'danh tiếng' hoặc 'sự nổi bật' (ví dụ: vương miện nhỏ, ngôi sao lấp lánh, huy hiệu).",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A single, rectangular, stylized blank card (resembling a business card in shape, but without any actual text areas) is prominently displayed. On its clean surface, there are multiple glowing, small, abstract symbols representing 'fame' or 'reputation,' such as a miniature golden crown, a sparkling star icon, and a simple laurel wreath. The card itself has a clean design and vibrant color. The scene is brightly lit with clear details. No text, no words, no letters."
+  },
+  {
+    "word": "nhập liệu",
+    "explanation": "Ý tưởng: 'Nhập' (đi vào, đưa vào) + 'Liệu' (dữ liệu, tài liệu). Vẽ một bàn tay đang gõ bàn phím (hành động nhập) và trên màn hình máy tính, các khối dữ liệu (liệu) đang liên tục được đưa vào hoặc hiển thị một cách rõ ràng.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A stylized hand is shown actively typing on a futuristic, colorful keyboard. In front of the keyboard, a transparent or holographic computer screen displays abstract, geometric blocks of 'data' (like glowing cubes or spheres) visibly flowing and 'entering' or 'populating' the screen from the keyboard's input. The scene is brightly lit with vibrant technological colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "biệt đãi",
+    "explanation": "Ý tưởng: 'Biệt' (riêng biệt, đặc biệt) + 'Đãi' (đối đãi, chiêu đãi). Vẽ một nhóm người đang được phục vụ tại bàn ăn, nhưng có một người trong số đó được phục vụ một món ăn hoặc đồ uống nổi bật, sang trọng hơn hẳn, hoặc được phục vụ bởi một người phục vụ riêng, thể hiện sự đối đãi đặc biệt.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. Several stylized, cartoon-like characters are seated around a dining table with generic meals. However, one character is prominently highlighted, receiving a distinctly 'special' treatment. A dedicated waiter figure is serving this character an extraordinarily lavish, glowing, or uniquely decorated dish/drink, much more elaborate than what others have. This character's seat or area might also be slightly elevated or uniquely adorned, emphasizing their 'separate' treatment. The scene is brightly lit with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "trông nom",
+    "explanation": "Ý tưởng: 'Trông' (nhìn, theo dõi) + 'Nom' (coi sóc, bảo vệ). Vẽ một đôi mắt to, tròn, đang nhìn chăm chú vào một vật thể nhỏ bé, dễ bị tổn thương (ví dụ: một cái cây non, một quả trứng). Vật thể này được bao bọc bởi một lớp 'lá chắn' năng lượng trong suốt, hoặc có một nhân vật nhỏ bé, dễ thương đang đứng cạnh để bảo vệ, thể hiện sự coi nom.",
+    "imagePrompt": "A vibrant, detailed 3D render in game mobile style. A pair of large, friendly, watchful, stylized cartoon eyes are prominently positioned in the upper part of the frame, 'looking' downwards. Below them, a small, vulnerable, stylized object (e.g., a tiny sprout, a sleeping baby animal) is gently nestled. This object is visibly enveloped in a soft, transparent, glowing protective energy field, or a small, cute guardian figure (like a tiny robot or fairy) stands nearby, symbolizing 'care' and 'supervision.' The scene is brightly lit with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "toa ăn",
+    "explanation": "Để thể hiện 'toa ăn', hình ảnh sẽ là một toa tàu hỏa được cắt ngang hoặc trong suốt, bên trong có bàn ghế và mọi người đang vui vẻ dùng bữa. 'Toa' là toa tàu, 'ăn' là hành động ăn uống.",
+    "imagePrompt": "A cross-section or transparent view of a modern train car designed for dining. Inside, passengers are happily eating at tables with food and drinks. The scene is brightly lit, showing vibrant culinary details. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "tiểu tiết",
+    "explanation": "Để thể hiện 'tiểu tiết', hình ảnh sẽ tập trung vào một vật thể bình thường nhưng được phóng đại để lộ ra vô số chi tiết cực kỳ nhỏ và tinh xảo, nhấn mạnh ý nghĩa 'những chi tiết rất nhỏ'.",
+    "imagePrompt": "A highly detailed, close-up view of an ordinary object (e.g., a leaf, a piece of fabric, a miniature gear) through a large magnifying glass. The focus is on the extremely tiny, intricate, and abundant patterns or elements within it, highlighting 'small details'. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "mỹ phẩm",
+    "explanation": "Để thể hiện 'mỹ phẩm', hình ảnh sẽ là một bộ sưu tập các sản phẩm làm đẹp đầy màu sắc và hấp dẫn như son môi, mascara, phấn, cọ trang điểm, được sắp xếp nghệ thuật, tượng trưng cho 'vật phẩm làm đẹp'.",
+    "imagePrompt": "An artful arrangement of various colorful beauty products: lipsticks, mascara, compact powders, foundation bottles, and elegant makeup brushes. They are neatly laid out on a clean, soft surface, emphasizing aesthetics and beauty. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "đô tuỳ",
+    "explanation": "Để thể hiện 'đô tuỳ' (đô thị + tùy thuộc/theo), hình ảnh sẽ là một người nhỏ bé, trong tư thế cúi mình hoặc quỳ gối, hướng về phía một thành phố lớn tráng lệ ở phía xa. Điều này tượng trưng cho sự 'tùy thuộc' hoặc 'đi theo' (tùng) một 'đô thị'.",
+    "imagePrompt": "A majestic, sprawling futuristic city skyline bathed in golden hour light, stretching into the distance. In the foreground, a solitary figure in humble attire is bowing deeply or kneeling, facing the grand city, conveying a sense of deference, reliance, or following. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "thuốc bắc",
+    "explanation": "Để thể hiện 'thuốc bắc', hình ảnh sẽ bao gồm các nguyên liệu thuốc bắc truyền thống (rễ cây, lá khô, quả mọng) được sắp xếp gọn gàng. Bên cạnh đó là một chiếc la bàn cổ điển chỉ rõ hướng 'Bắc'.",
+    "imagePrompt": "A meticulously arranged collection of traditional Chinese herbal medicine ingredients: dried roots, various leaves, small berries, and exotic spices. Placed prominently next to them is a classic brass compass with its needle clearly pointing North. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "an dật",
+    "explanation": "Để thể hiện 'an dật', hình ảnh sẽ là một người đang thảnh thơi nằm ngủ trong võng dưới bóng cây râm mát, khung cảnh xung quanh yên bình và tĩnh lặng, thể hiện sự 'an' lành và 'dật' (nhàn nhã).",
+    "imagePrompt": "A serene landscape with a person peacefully napping in a vibrant hammock strung between two trees. A gentle breeze is subtly rustling the leaves, and the overall atmosphere is one of complete relaxation and tranquility. A book has fallen to the ground nearby. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "thắng sơn",
+    "explanation": "Để thể hiện 'thắng sơn', hình ảnh sẽ là một nhân vật anh hùng hoặc vận động viên đứng trên đỉnh một ngọn núi hùng vĩ, giơ cao tay thể hiện chiến thắng, tượng trưng cho việc 'thắng' lợi trên 'sơn' (núi).",
+    "imagePrompt": "A triumphant figure, resembling a climber or an athlete, standing majestically on the rugged peak of a towering mountain. Their arms are raised high in a gesture of victory, overlooking a breathtaking panorama of other mountain ranges and valleys below. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "lưu lãng",
+    "explanation": "Để thể hiện 'lưu lãng', hình ảnh sẽ là một người du hành đơn độc với ba lô và gậy đi bộ trên con đường dài, quanh co, nhìn xa xăm, gợi lên cảm giác 'lưu' lạc, 'lãng' du không ngừng nghỉ.",
+    "imagePrompt": "A lone traveler with a worn backpack and a sturdy walking stick, silhouetted against a vast, open landscape. They are walking on a long, winding dirt path that disappears into the horizon, conveying a sense of continuous wandering and journeying. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "quạt mo",
+    "explanation": "Để thể hiện 'quạt mo', hình ảnh sẽ là một chiếc quạt truyền thống của Việt Nam được làm từ 'mo' cau hoặc lá cọ, đơn giản và mộc mạc, được một bàn tay cầm trong bối cảnh làng quê xưa.",
+    "imagePrompt": "A close-up of a rustic, traditional Vietnamese 'quạt mo' (fan made from a dried areca spathe or palm leaf), held gently by a hand. The fan has its distinctive simple, natural texture and shape, possibly against a soft, blurred background of a traditional rural setting. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "gọn lỏn",
+    "explanation": "Để thể hiện 'gọn lỏn', hình ảnh sẽ là một chiếc bàn làm việc thu nhỏ được sắp xếp cực kỳ gọn gàng và ngăn nắp, với các vật dụng tí hon được đặt đúng vị trí, nhấn mạnh sự 'gọn' gàng và 'lỏn' (tối giản, nhỏ gọn).",
+    "imagePrompt": "A miniature, perfectly organized desk, no bigger than a palm, with tiny, meticulously arranged items: a minuscule pen, a tiny open notebook, a microscopic potted plant, and a compact laptop. Everything is impeccably tidy and extremely compact. 3D render, game mobile style, vibrant colors, clear details, no text, no words, no letters."
+  },
+  {
+    "word": "khí động",
+    "explanation": "Tách nghĩa: 'Khí' (khí chất, hơi nước, gió) và 'Động' (chuyển động). Hình ảnh thể hiện một luồng khí đang chuyển động mạnh mẽ, linh hoạt.",
+    "imagePrompt": "A dynamic 3D render in game mobile style, featuring a swirling, transparent, light blue-white cloud or current of air, visibly in powerful, fluid motion. The 'khí' (air/gas) is clearly moving and shaping itself with vibrant energy, highlighting the 'động' (motion) aspect. The scene has clear details and vibrant colors, with no text or letters."
+  },
+  {
+    "word": "chơi xỏ",
+    "explanation": "Tách nghĩa: 'Chơi' (hành động chơi đùa, nghịch ngợm) và 'Xỏ' (xỏ chỉ, xỏ kim, hoặc hành động xỏ lá, lừa gạt, trêu chọc). Hình ảnh một nhân vật đang thực hiện một trò chơi khăm (chơi) bằng cách xỏ dây hoặc vật gì đó vào đối tượng khác để trêu chọc (xỏ).",
+    "imagePrompt": "A 3D render in game mobile style, depicting a mischievous cartoon character with a playful smirk, subtly holding a long thread and needle. This character is shown having just threaded (xỏ) the string between the legs of another unsuspecting character, who is about to take a step, hinting at a playful prank or 'chơi xỏ.' The second character looks oblivious. The scene is brightly lit with vibrant colors and clear details, with no text or letters."
+  },
+  {
+    "word": "điện tim",
+    "explanation": "Tách nghĩa: 'Điện' (điện năng, dòng điện) và 'Tim' (quả tim). Hình ảnh một trái tim đang hoạt động với các dòng điện chạy xung quanh hoặc xuyên qua nó.",
+    "imagePrompt": "A stylized, glowing red human heart, gently pulsating, is the central focus in a 3D render, game mobile style. Vibrant blue electrical currents and zigzagging lightning bolts are visibly flowing around and through the heart, illustrating the concept of 'điện' (electricity) and 'tim' (heart). The image features clear details and vibrant colors, with no text or letters."
+  },
+  {
+    "word": "phải gió",
+    "explanation": "Nghĩa bóng: bị ốm, cảm lạnh do gặp gió. Hình ảnh một người đang run rẩy, trông không khỏe mạnh, với những luồng gió mạnh đang thổi xung quanh.",
+    "imagePrompt": "A cartoon-style character, looking pale and slightly ill, is shivering and wrapped in a thick blanket in a 3D render, game mobile style. Strong, visible gusts of wind are blowing around them, causing small leaves or loose objects to swirl, clearly indicating the 'gió' (wind) impacting the character, who is 'phải' (affected by) it. The scene uses vibrant colors and clear details, with no text or letters."
+  },
+  {
+    "word": "triền miên",
+    "explanation": "Nghĩa bóng: liên tục, kéo dài không dứt. Hình ảnh một con đường hoặc dòng chảy kéo dài vô tận, không có điểm dừng, thể hiện sự liên tục.",
+    "imagePrompt": "A long, winding, continuous path or road stretching endlessly into the distant horizon, depicted in a 3D render, game mobile style. The path showcases a repeating pattern or flow that strongly emphasizes its continuous and never-ending nature, illustrating 'triền miên.' The image uses vibrant colors and clear details, with no text or letters."
+  },
+  {
+    "word": "xuân vân",
+    "explanation": "Tách nghĩa: 'Xuân' (mùa xuân) và 'Vân' (mây). Hình ảnh những đám mây đặc trưng của mùa xuân, thường là mây trắng, bồng bềnh trên bầu trời trong xanh.",
+    "imagePrompt": "A clear, vibrant blue sky filled with numerous fluffy, white, light, and airy clouds, typical of a spring day, rendered in 3D game mobile style. Subtle hints of blooming flowers or fresh green foliage are visible at the very bottom edge of the frame, suggesting the 'Xuân' (spring) season, while the 'Vân' (clouds) are the main focus. The scene has clear details and vibrant colors, with no text or letters."
+  },
+  {
+    "word": "cột gôn",
+    "explanation": "Tách nghĩa: 'Cột' (cái cột, trụ) và 'Gôn' (môn thể thao golf). Hình ảnh chiếc cột cờ trên sân golf.",
+    "imagePrompt": "A classic golf flagstick (the 'cột' or pole) standing upright in a neatly trimmed, vibrant green grass golf course, with a small flag attached at its top, rendered in 3D game mobile style. A golf hole is clearly visible at the base of the flagstick, emphasizing the 'gôn' (golf) context. The image features clear details and vibrant colors, with no text or letters."
+  },
+  {
+    "word": "vạ gì",
+    "explanation": "Nghĩa bóng: dùng để hỏi hoặc khẳng định rằng không có điều gì đáng lo ngại, không có rắc rối lớn. Hình ảnh một vấn đề nhỏ bé, không đáng kể, bị gạt bỏ dễ dàng, kèm theo cử chỉ hoặc biểu cảm 'có gì đâu?'",
+    "imagePrompt": "A tiny, almost imperceptible dark storm cloud or a minuscule, easily brushed-away obstacle (representing 'vạ' or trouble) hovers over a cartoon-style character. The character is shrugging their shoulders with an unconcerned, questioning expression (implying 'gì?' or 'what's the big deal?'), rendered in 3D game mobile style. The overall mood is dismissive, highlighting the insignificance of the 'trouble.' The image uses vibrant colors and clear details, with no text or letters."
+  },
+  {
+    "word": "táy đăm",
+    "explanation": "Tách nghĩa: 'Táy' (bàn tay hoạt động, nghịch ngợm, không ngừng nghỉ) và 'Đăm' (sẫm màu, đậm). Hình ảnh đôi bàn tay đang hoạt động một cách bận rộn, và chúng có màu sắc sẫm, đậm.",
+    "imagePrompt": "A pair of human hands intensely busy and moving rapidly, perhaps working on a craft like kneading dark clay or intensely sketching on dark paper, rendered in 3D game mobile style. The hands are visibly stained or covered in a deep, dark color (e.g., dark blue, black, or deep brown pigment), emphasizing the 'táy' (busy/active hands) and 'đăm' (dark/deeply colored) aspects. The hands are the central focus with vibrant colors and clear details, with no text or letters."
+  },
+  {
+    "word": "cô đặc",
+    "explanation": "Tách nghĩa: 'Cô' (làm cho cô lại, bay hơi) và 'Đặc' (đặc sệt, đậm đặc). Hình ảnh một chất lỏng đang được làm bay hơi để trở nên đặc hơn, đậm đặc hơn.",
+    "imagePrompt": "A vibrant 3D render in game mobile style, showing a brightly colored liquid substance (e.g., syrup or concentrate) in a clear pot or beaker. The liquid is visibly bubbling and steaming over gentle heat. It is clearly shown transitioning from a thinner state to a much thicker, denser, and more concentrated consistency, with rich droplets clinging to the sides, illustrating the process of 'cô đặc.' The scene has clear details and vibrant colors, with no text or letters."
+  },
+  {
+    "word": "rèn tập",
+    "explanation": "Ý tưởng: 'Rèn' là hình ảnh một thợ rèn đang đập búa vào kim loại trên đe. 'Tập' là hình ảnh một người đang tập luyện thể thao hoặc võ thuật.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a muscular blacksmith wearing an apron is intensely hammering a glowing red metal bar on an anvil, with sparks flying. On the right side, a person in dynamic athletic wear is performing a focused martial arts pose (e.g., a high kick or punch) in a dojo-like setting. The background is stylized to suggest a workshop and a training area. No text, no words, no letters."
+  },
+  {
+    "word": "ụ súng",
+    "explanation": "Ý tưởng: 'Ụ' là hình ảnh một gò đất nhỏ được đắp cao. 'Súng' là hình ảnh một khẩu súng máy hoặc súng trường đặt trên gò đất đó.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. In the center, a prominent, well-formed earthen mound (a small hill or hummock) with natural textures. Perched firmly and clearly on top of this mound is a detailed, realistic military-style machine gun, pointing directly forward. The background is a stylized, open field under a bright sky. No text, no words, no letters."
+  },
+  {
+    "word": "nhìn thấy",
+    "explanation": "Ý tưởng: 'Nhìn' là hình ảnh một con mắt đang mở to và nhìn thẳng. 'Thấy' là hình ảnh một vật thể nhỏ, rõ ràng hiện ra ngay trước mắt đó, như thể vừa được phát hiện.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A stylized, wide-open human eye in the foreground, with a focused, direct gaze. Directly in front of the pupil, a small, distinct object (e.g., a shiny star or a simple 'found' icon) is sharply rendered and appears prominently, as if just perceived. The background is a softly blurred gradient, emphasizing the eye and the seen object. No text, no words, no letters."
+  },
+  {
+    "word": "bạo ngược",
+    "explanation": "Ý tưởng: 'Bạo' là hình ảnh một người đàn ông hung dữ đang dùng vũ lực, thể hiện sự bạo lực. 'Ngược' là hình ảnh một cán cân bị nghiêng lệch hẳn, tượng trưng cho sự bất công, trái ngược.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a menacing, authoritarian figure (e.g., a stylized king or general in dark attire) with a scowl, raising a clenched fist aggressively, symbolizing violence. On the right side, a classic set of scales of justice is heavily tipped to one side, completely unbalanced and broken, representing injustice or 'ngược'. The background is dark and suggestive of oppression. No text, no words, no letters."
+  },
+  {
+    "word": "kim chi",
+    "explanation": "Ý tưởng: 'Kim' là hình ảnh một cây kim may bằng vàng lấp lánh. 'Chi' là hình ảnh một cành cây nhỏ có lá xanh tươi.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a sleek, shiny golden sewing needle stands upright, reflecting light. Next to it, on the right side, a delicate, vibrant green tree branch with a few well-defined leaves extends gently. The overall composition is clean and minimalist on a soft, light background. No text, no words, no letters."
+  },
+  {
+    "word": "tứ phương",
+    "explanation": "Ý tưởng: 'Tứ' là hình ảnh số 4 cách điệu hoặc bốn vật thể giống nhau. 'Phương' là hình ảnh một la bàn hoặc bốn mũi tên chỉ ra bốn hướng chính (Bắc, Nam, Đông, Tây).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. In the exact center, a bold, stylized numeral '4' in a prominent font. Surrounding the '4', four distinct, brightly colored arrows point outwards in each of the cardinal directions (up, down, left, right), mimicking a compass. The background is a clean, abstract representation of open space or a map-like texture. No text, no words, no letters."
+  },
+  {
+    "word": "nhũ đá",
+    "explanation": "Ý tưởng: 'Nhũ' là hình ảnh một giọt sữa đang nhỏ xuống. 'Đá' là hình ảnh một khối đá hoặc hang động. Kết hợp: một khối đá nhọn, màu trắng sữa đang rủ xuống từ trần hang động, trông như giọt sữa.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A long, smooth, milky-white rock formation (a stalactite) prominently hanging downwards from a dark, rough cave ceiling. A single, luminous drop of water or 'milk' is just detaching from its pointed tip, about to fall. The surrounding cave environment is dimly lit with subtle light sources, highlighting the stalactite. No text, no words, no letters."
+  },
+  {
+    "word": "co cóp",
+    "explanation": "Ý tưởng: 'Co' là hình ảnh một vật thể đang bị nén chặt, co lại (ví dụ: một chiếc lò xo). 'Cóp' là hình ảnh một người đang cẩn thận cất giữ, tích trữ tiền bạc vào một chiếc túi hoặc hộp.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a tightly coiled and compressed spring, visibly 'contracting' or shrinking. On the right side, a stylized small character (e.g., a gnome or a squirrel-like creature) is meticulously placing shiny gold coins into a hidden, slightly open wooden treasure chest or a small pouch, depicting 'saving' or 'hoarding'. The background suggests a cozy, secret corner. No text, no words, no letters."
+  },
+  {
+    "word": "địa chủ",
+    "explanation": "Ý tưởng: 'Địa' là hình ảnh một quả địa cầu nhỏ hoặc một mảnh đất có ranh giới rõ ràng. 'Chủ' là hình ảnh một chiếc chìa khóa lớn hoặc vương miện nhỏ, tượng trưng cho quyền sở hữu, làm chủ.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a stylized miniature globe with continents or a neatly delineated plot of green land. On the right side, a large, ornate golden key or a small, regal crown is prominently displayed, symbolizing ownership or mastership. The overall composition is clean and symbolic on a light, neutral background. No text, no words, no letters."
+  },
+  {
+    "word": "tái thiết",
+    "explanation": "Ý tưởng: 'Tái' là hình ảnh mũi tên xoay tròn theo vòng lặp hoặc biểu tượng 'làm lại, phục hồi'. 'Thiết' là hình ảnh một công trình kiến trúc (nhà, cầu) đang được xây dựng dở dang với vật liệu.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left side, a stylized 'redo' or 'refresh' icon (a circular arrow looping back on itself), implying 'again' or 're-'. On the right side, a partially constructed building (e.g., a house frame with wooden beams or a bridge structure with scaffolding) is actively being assembled with construction materials like bricks and planks. The background is a bright, optimistic sky. No text, no words, no letters."
+  },
+  {
+    "word": "thông thư",
+    "explanation": "Ý tưởng: Vẽ một cây thông (thông) và một lá thư (thư).",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. On the left, a tall, stylized green pine tree (cây thông). On the right, a classic sealed letter with a wax stamp, floating gently. The letter is slightly oversized relative to the tree, suggesting its importance. The background is a soft, gradient sky. No text, no words, no letters."
+  },
+  {
+    "word": "chỗ ngồi",
+    "explanation": "Ý tưởng: Vẽ một khoảng trống hình tròn được đánh dấu rõ ràng (chỗ) và một nhân vật hoạt hình đang trong tư thế ngồi (ngồi) lơ lửng ngay phía trên khoảng trống đó.",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. In the center, a perfectly circular, empty spot marked by a subtle glowing aura or a dashed outline on the ground (representing 'chỗ' - place). Above this spot, a stylized, cartoon-like human character is depicted in a clear sitting posture, legs bent, hands resting on knees, hovering just above the marked spot as if about to land or just having sat down. The character is gender-neutral and simple. The background is a minimalist, abstract landscape. No text, no words, no letters."
+  },
+  {
+    "word": "khoa mục",
+    "explanation": "Ý tưởng: Vẽ một ống nghiệm thí nghiệm (khoa) và một con mắt lớn đang mở (mục – chơi chữ với 'mắt').",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. On the left, a gleaming laboratory test tube filled with a bright, bubbling blue liquid, representing 'khoa' (science/faculty). On the right, a large, stylized, wide-open cartoon eye with a friendly expression, looking directly forward (representing 'mục' or 'mắt' - eye, a common wordplay). The background is a clean, minimalistic lab-like setting. No text, no words, no letters."
+  },
+  {
+    "word": "lệ thuộc",
+    "explanation": "Ý tưởng: Vẽ một giọt nước mắt (lệ) và một vật nhỏ đang bị xích hoặc gắn chặt vào một vật lớn hơn (thuộc).",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. In the foreground, a large, sparkling blue teardrop is falling. Behind it, a smaller, simple geometric shape (e.g., a sphere) is attached by a short, stylized chain to a larger, more dominant geometric shape (e.g., a cube), clearly showing dependence or attachment. The sphere appears to be 'pulled' or 'bound' to the cube. The background is a soft, abstract gradient. No text, no words, no letters."
+  },
+  {
+    "word": "lầu hồng",
+    "explanation": "Ý tưởng: Vẽ một tòa lầu/nhà cao tầng với kiến trúc cổ điển, được sơn màu đỏ rực rỡ (hồng).",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. A majestic, ornate multi-story building (lầu) with multiple windows and a pointed roof, rendered entirely in a striking, rich red color (hồng). The building stands prominently against a clear, bright sky. Architectural details are clear but stylized, in a fairy-tale castle aesthetic. No text, no words, no letters."
+  },
+  {
+    "word": "bà hoàng",
+    "explanation": "Ý tưởng: Vẽ hình ảnh một bà lão (bà) và một chiếc vương miện màu vàng lấp lánh (hoàng).",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. On the left, a kind-faced, stylized old woman character (bà) with a gentle smile and grey hair, wearing simple but elegant attire. On the right, a magnificent, gleaming golden crown (hoàng) adorned with yellow jewels, hovering slightly. The background is a soft, regal purple or deep blue. No text, no words, no letters."
+  },
+  {
+    "word": "vũ đoàn",
+    "explanation": "Ý tưởng: Vẽ một nhóm người đang trình diễn các động tác nhảy múa (vũ đoàn) một cách đồng bộ và sống động.",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. A dynamic group of five stylized, diverse human figures (đoàn) in mid-dance poses (vũ), each with exaggerated, joyful movements. They are arranged in a formation, suggesting a coordinated performance. The figures are distinct but part of a cohesive unit. The background is a stage-like setting with dynamic lighting. No text, no words, no letters."
+  },
+  {
+    "word": "cưa máy",
+    "explanation": "Ý tưởng: Vẽ một chiếc cưa tay truyền thống (cưa) và phía sau là một tập hợp các bánh răng, động cơ đang hoạt động (máy).",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. In the foreground, a classic, large wooden-handled hand saw (cưa) with gleaming teeth is positioned horizontally. Behind and slightly above it, a collection of stylized mechanical gears and cogs (máy) are interlocking and slowly turning, suggesting a machine. The background is a workshop-like setting with soft, ambient lighting. No text, no words, no letters."
+  },
+  {
+    "word": "múa lân",
+    "explanation": "Ý tưởng: Vẽ một con lân/sư tử thần thoại (lân) đang thực hiện các động tác nhảy múa (múa) đầy uyển chuyển và mạnh mẽ.",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. A stylized, vibrant red and gold mythical lion-like creature (lân), similar to those seen in traditional lion dances, is depicted in a dynamic, energetic dance pose (múa). Its head is held high, and its body is flowing with movement, as if being animated by unseen performers. The background is a festive, slightly blurred traditional East Asian celebration setting. No text, no words, no letters."
+  },
+  {
+    "word": "râm mát",
+    "explanation": "Ý tưởng: Vẽ một cái cây lớn đổ bóng râm rõ rệt xuống mặt đất (râm), và trong khu vực bóng râm đó có những hạt tuyết hoặc luồng gió mát (mát) đang nhẹ nhàng bay lượn.",
+    "imagePrompt": "A whimsical 3D render, game mobile style, vibrant colors, clear details. In the foreground, a lush, broad-leafed tree casts a distinct, dark shadow (râm) on the ground, creating a visibly cooler patch. In the air around the shaded area, several stylized, translucent snowflakes or cool air currents (mát) are gently swirling, emphasizing coolness. The sun is implied to be off-frame, brightly illuminating the unshaded areas. No text, no words, no letters."
+  },
+  {
+    "word": "công tào",
+    "explanation": "Tách nghĩa: 'Công' (trong 'chim công') và 'Tào' (trong 'chiếc tàu thủy'). Hình ảnh vẽ một con chim công đang kéo hoặc ngồi trên một chiếc tàu (thuyền).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A majestic, iridescent crane bird (the bird, not construction crane) with its distinctive long feathers, gracefully pulling a small, simple wooden boat across a calm, reflective blue lake. The bird is actively engaged in pulling, with its feathers slightly ruffled from effort. No text, no words, no letters."
+  },
+  {
+    "word": "nuốt sống",
+    "explanation": "Tách nghĩa đen: 'Nuốt' và 'Sống'. Hình ảnh một người đang há miệng to, chuẩn bị nuốt một con vật nhỏ (ví dụ: con cá, con ếch) vẫn còn đang sống và quẫy đạp.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A cartoonish, expressive character with a comically wide-open mouth, looking surprised or determined. Inside the open mouth, a small, vibrant green frog is depicted mid-leap, clearly alive and mid-air, looking comically distressed just before being swallowed. The background is simple and bright. No text, no words, no letters."
+  },
+  {
+    "word": "cơ bìu",
+    "explanation": "Tách nghĩa: 'Cơ' (trong 'cơ bida') và 'Bìu' (một cái túi nhỏ, túi bìu). Hình ảnh một cây cơ bida đang chuẩn bị đánh bi, và bên cạnh là một cái túi nhỏ treo lủng lẳng hoặc đặt gần đó.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A sleek, polished wooden billiard cue stick positioned precisely on a green billiard table, aiming at a white billiard ball. Adjacent to the cue stick and ball, a small, worn, leather-like pouch or bag is depicted, either hanging loosely from a small hook or resting casually on the edge of the table. No text, no words, no letters."
+  },
+  {
+    "word": "hạch xoài",
+    "explanation": "Tách nghĩa đen: 'Hạch' (một cục u, nốt sần) và 'Xoài' (quả xoài). Hình ảnh một quả xoài lớn, tươi ngon có một nốt sần nhỏ, rõ rệt trên bề mặt.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A perfectly ripe, succulent yellow-orange mango fruit, prominently displayed. On its otherwise smooth surface, a distinct, slightly raised, darker 'node' or 'bump' is clearly visible, emphasizing the 'hạch' aspect without implying defect. The mango looks appealing and fresh. No text, no words, no letters."
+  },
+  {
+    "word": "cần lao",
+    "explanation": "Tách nghĩa: 'Cần' (trong 'cần câu cá') và 'Lao' (trong 'lao động', người đang làm việc vất vả). Hình ảnh một người nông dân đang chăm chỉ làm việc trên đồng, và bên cạnh có một cây cần câu cá đặt xuống đất, không sử dụng.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A diligent, cartoonish farmer figure, wearing traditional straw hat and clothes, actively tilling soil with a hoe in a sunlit field, conveying hard work. Next to the farmer, leaning against a small mound of earth, is a simple, rustic fishing rod with its line extended but not being actively fished. No text, no words, no letters."
+  },
+  {
+    "word": "bạch nha",
+    "explanation": "Tách nghĩa: 'Bạch' (trong 'ma trắng', 'bạch quỷ') và 'Nha' (trong 'ngôi nhà'). Hình ảnh một con ma màu trắng đang đứng hoặc lơ lửng trước một ngôi nhà.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A friendly, ethereal white ghost (spirit) with a translucent, flowing form, gently hovering in front of a cozy, stylized traditional house with a clear roof and windows. The ghost has a whimsical, non-frightening appearance. No text, no words, no letters."
+  },
+  {
+    "word": "nay kính",
+    "explanation": "Tách nghĩa: 'Nay' (trong 'ngày hôm nay', thể hiện bằng một tờ lịch mở ra) và 'Kính' (trong 'cặp kính đeo mắt'). Hình ảnh một tờ lịch đang mở ra, có mũi tên hoặc điểm nhấn chỉ vào ngày hiện tại, và bên cạnh là một cặp kính.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. An open calendar page, clearly displaying a month's grid. A cheerful, prominent arrow or a simple star marker points directly to one specific date, visually representing 'today' without using text. Resting beside the calendar, a stylish pair of clear eyeglasses adds to the scene. No text, no words, no letters."
+  },
+  {
+    "word": "hoà mục",
+    "explanation": "Tách nghĩa: 'Hoà' (trong 'hòa trộn', 'hòa sắc') và 'Mục' (trong 'khúc gỗ mục nát'). Hình ảnh một bảng màu của họa sĩ với các màu sắc đang hòa trộn hài hòa, và bên cạnh là một khúc gỗ đang mục nát.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. An artist's wooden paint palette with various bright, distinct colors smoothly blending into each other, illustrating 'harmony' and 'mixing'. Directly next to the palette, a segment of a fallen tree log is depicted, showing clear signs of decay, moss, and small fungi, emphasizing its 'rotting' state. No text, no words, no letters."
+  },
+  {
+    "word": "lí nhí",
+    "explanation": "Diễn tả nghĩa đen: 'rất nhỏ' và 'nhiều'. Hình ảnh một đàn kiến nhỏ xíu đang bò thành hàng, tượng trưng cho sự bé nhỏ và số lượng nhiều.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A large swarm of many tiny, identical, black ants meticulously marching in a long, winding line across a clean, light-colored surface. Each ant is perfectly rendered but minuscule, emphasizing their small size and multitude. No text, no words, no letters."
+  },
+  {
+    "word": "thừa tiếp",
+    "explanation": "Tách nghĩa: 'Thừa' (trong 'thừa kế', thể hiện bằng một chiếc rương kho báu) và 'Tiếp' (trong 'tiếp nối', thể hiện bằng một con đường hoặc chuỗi nối dài). Hình ảnh một chiếc rương kho báu đang mở, với vàng bạc tràn ra, và từ đó có một con đường tiếp nối về phía trước.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A stylized, slightly open treasure chest overflowing with sparkling gold coins, gems, and ancient artifacts, vividly symbolizing 'inheritance'. Leading directly from the base of the chest, a clear, distinct path or a sequence of stepping stones extends forward into the distance, symbolizing 'continuation' or 'succession'. No text, no words, no letters."
+  },
+  {
+    "word": "thẳng tắp",
+    "explanation": "Vẽ một con đường hoặc một vật thể (ví dụ: thước kẻ) rất thẳng, kéo dài. Ở cuối con đường hoặc bên cạnh vật thể đó là một chiếc vòi nước (tap) đang nhỏ giọt, để gợi ý từ 'tắp' (âm thanh gần giống 'tap').",
+    "imagePrompt": "A perfectly straight, long, asphalt road stretching into the distant horizon. At the very end of this road, a silver water tap is prominently placed, with clear water droplets actively flowing from its spout onto the ground. The scene is brightly lit under a clear sky. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "rộng ẩm",
+    "explanation": "Vẽ một không gian rất rộng lớn, bao la, ví dụ như một hang động khổng lồ hoặc một cánh đồng sương mù. Trong không gian đó có nhiều hơi nước, sương mù hoặc nước đọng trên bề mặt, để thể hiện sự 'ẩm' ướt.",
+    "imagePrompt": "A vast, wide-open cave system with a very high ceiling and an expansive, echoing floor. Water droplets are visibly clinging to the cave walls and stalactites, and a fine, soft mist hovers just above the damp ground, illuminated by a gentle, ethereal light filtering from an unseen opening. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "tất tay",
+    "explanation": "Vẽ một bàn tay con người, rõ ràng, đang đeo một chiếc tất (vớ) như thể nó là một chiếc găng tay. Hình ảnh chiếc tất trên bàn tay sẽ gợi ý cho cụm từ 'tất tay'.",
+    "imagePrompt": "A human hand, clearly visible, wearing a brightly colored, intricately knitted sock on it, as if the sock were a glove. The sock covers the entire hand. The background is a clean, simple, light-colored surface, drawing full attention to the hand and sock. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "xương bướm",
+    "explanation": "Vẽ hình ảnh một phần bộ xương người, tập trung vào khu vực hộp sọ, nơi có một chiếc xương được cách điệu hoặc có hình dáng rõ ràng giống như một con bướm đang dang cánh bay.",
+    "imagePrompt": "A realistic, anatomical representation of a partial human skull, specifically highlighting the sphenoid bone. The sphenoid bone itself is subtly emphasized, its shape clearly resembling the graceful silhouette of a butterfly with spread wings. The bone has a slightly translucent, ivory quality. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "nhà rạp",
+    "explanation": "Vẽ một ngôi nhà truyền thống, có kiến trúc rõ ràng. Ngay cạnh ngôi nhà đó, là một tấm biển lớn hoặc một lối vào có đặc trưng của một rạp chiếu phim (rạp hát), nhưng không có bất kỳ chữ viết nào.",
+    "imagePrompt": "A charming, traditional European-style house with a red tiled roof, white walls, and a small flower garden. Directly next to this house, seamlessly integrated into the scene, is a prominent entrance structure resembling a classic cinema marquee, complete with a large, blank movie screen and decorative lights, but without any text or titles. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "linh diệu",
+    "explanation": "Vẽ một sinh vật huyền bí, có vẻ ngoài linh thiêng (như cáo chín đuôi phát sáng, chim phượng hoàng, hoặc một luồng sáng có hình hài). Sinh vật này đang tạo ra một hiện tượng kỳ diệu, phép thuật (diệu kỳ) như làm cây cối đâm chồi, tạo ra cầu vồng.",
+    "imagePrompt": "A radiant, ethereal fox with multiple glowing, flowing tails (a mystical 'linh vật') stands majestically in a lush, enchanted forest. From its paws, shimmering, golden light energy is gently flowing towards a withered, ancient tree, instantly causing new, vibrant leaves and colorful flowers to burst forth from its branches. The scene is filled with a sense of wonder and magic. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cộng sổ",
+    "explanation": "Vẽ một cuốn sổ (sổ ghi chép, sổ kế toán) đang mở trên một mặt bàn. Trên trang sổ có một ký hiệu dấu cộng (+) lớn và rõ ràng, gợi ý hành động cộng vào sổ.",
+    "imagePrompt": "A vintage, open ledger book with yellowed, slightly crinkled pages, lying flat on a polished wooden desk. A prominent, large, bright green plus sign (+) is clearly drawn or printed on the right-hand page, almost filling it. A traditional ink pen with a quill is resting beside the book. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "trọi lỏi",
+    "explanation": "Vẽ một chú gà con (hoặc một con vật nhỏ khác) rất nhỏ bé, gầy guộc và có vẻ yếu ớt. Cơ thể nó có vẻ 'trụi' lông hoặc ít lông, nhìn không được đầy đặn, gợi lên sự bé nhỏ và yếu ớt.",
+    "imagePrompt": "A tiny, scrawny baby chick, just hatched, standing alone and looking somewhat vulnerable on a smooth, empty surface. Its sparse, downy feathers reveal hints of bare, pale skin, emphasizing its small and fragile appearance. The background is a soft, blurred, light pastel color. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "làm lương",
+    "explanation": "Vẽ một người đang thực hiện một công việc cụ thể (ví dụ: gõ máy tính, xây dựng, bán hàng) trong một môi trường làm việc. Bên cạnh họ hoặc trên bàn làm việc có một cọc tiền hoặc một phong bì có dấu hiệu của bảng lương (ví dụ: ký hiệu đô la, không phải chữ viết).",
+    "imagePrompt": "A person in a smart business casual shirt is diligently working at a modern computer desk, their hands poised over the keyboard. Beside their computer monitor, there is a neat stack of currency bills and a closed envelope prominently featuring a dollar sign symbol (without any text). The scene conveys a productive office environment. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "đại nho",
+    "explanation": "Vẽ một chùm nho, nhưng trong đó có một quả nho đặc biệt khổng lồ, rất lớn (đại), nổi bật hẳn so với những quả nho bình thường khác. Hình ảnh quả nho to lớn sẽ gợi ý cho từ 'đại nho'.",
+    "imagePrompt": "A single, exceptionally large and prominent purple grape, almost the size of a small apple, hanging from a vibrant green vine. The grape is perfectly ripe, dewy, and highly detailed on its skin. Other smaller, regular-sized grapes are visible in the background for scale, emphasizing the 'greatness' of the main grape. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "yên thọ",
+    "explanation": "Để thể hiện từ 'yên thọ', chúng ta sẽ tách nghĩa thành 'yên' (trong yên ngựa, tượng trưng cho sự ổn định, tĩnh lặng) và 'thọ' (trong trường thọ, biểu tượng bằng quả đào tiên). Hình ảnh một chiếc yên ngựa đặt bên cạnh một quả đào tiên lớn, tất cả đều toát lên vẻ bình yên, nhẹ nhàng.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A smooth, brown leather horse saddle is gently placed on a patch of lush, soft green grass. Next to the saddle, a large, vibrant, ripe longevity peach (a round, pinkish-red peach with a pointed tip, often depicted in Asian art) rests calmly. The scene is bathed in soft, warm sunlight, conveying a sense of peace and stillness. No text, no words, no letters."
+  },
+  {
+    "word": "cứng cỏi",
+    "explanation": "Để biểu thị 'cứng cỏi', chúng ta sẽ minh họa sự 'cứng' (chắc chắn, rắn rỏi) và 'cỏi' (kiên cường, bền bỉ). Hình ảnh một cây xương rồng gai góc (tượng trưng cho sự cứng cỏi, chịu đựng) đang mạnh mẽ vươn lên từ một kẽ nứt nhỏ của một tảng đá lớn và rắn chắc.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A small, resilient-looking cactus with sharp, visible thorns is vigorously growing out of a narrow crack in a large, solid, grey, weathered rock. The rock is imposing and appears very hard. The cactus stands firm and healthy, illustrating its tenacity in a harsh environment. No text, no words, no letters."
+  },
+  {
+    "word": "đang khi",
+    "explanation": "Từ 'đang khi' được tách thành 'đang' (hành động đang diễn ra) và 'khi' (thời gian). Hình ảnh một người đang trong tư thế chạy với động tác rõ ràng (thể hiện 'đang'). Bên cạnh người đó là một chiếc đồng hồ lớn với kim đang quay (thể hiện 'khi' và sự trôi chảy của thời gian).",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A stylized, dynamic figure of a person is depicted in mid-stride, running energetically with subtle motion lines or speed effects trailing behind, indicating an ongoing action. Next to the running figure, a large, antique-style clock face with Roman numerals is shown. The clock hands are visibly blurred or in motion, suggesting the passage of time. No text, no words, no letters."
+  },
+  {
+    "word": "biến số",
+    "explanation": "Để mô tả 'biến số', chúng ta dùng hình ảnh một 'số' (con số) đang trong quá trình 'biến' (thay đổi, biến đổi). Ví dụ, con số 5 đang chuyển hóa, biến dạng thành con số 8, với hiệu ứng thị giác của sự biến đổi.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A prominent, glowing number '5' is centrally placed, appearing to be in a state of flux. Around and within it, visual effects such as shimmering particles, subtle distortion lines, and faint energy tendrils indicate that it is actively morphing or transforming into another number, possibly an '8', but not yet fully formed. The numbers are stylized and dynamic. No text, no words, no letters."
+  },
+  {
+    "word": "nghi thức",
+    "explanation": "Ở đây, 'nghi' được hiểu là 'nghi lễ' và 'thức' là 'thức ăn'. Chúng ta sẽ vẽ một bàn tiệc thịnh soạn với nhiều món 'thức ăn' được sắp đặt một cách cực kỳ trang trọng, ngăn nắp, theo một 'nghi lễ' nhất định, không giống một bữa ăn thông thường.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A lavishly set table is filled with various beautifully prepared food items ('thức ăn'). Each dish is meticulously arranged in a formal, precise, and highly symmetrical pattern, suggesting a solemn and orderly 'ritual' or 'ceremony' ('nghi lễ') rather than a casual meal. The atmosphere is dignified and respectful. No text, no words, no letters."
+  },
+  {
+    "word": "dâm từ",
+    "explanation": "Để thể hiện 'dâm từ', 'dâm' được liên tưởng đến hình ảnh con quỷ dâm đãng, tinh quái. 'Từ' là từ ngữ, biểu tượng bằng một cuốn từ điển. Hình ảnh một con quỷ nhỏ màu đỏ, có sừng và đuôi, với vẻ mặt tinh nghịch, đang cầm một cuốn từ điển.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A small, cartoonish red devil character with pointy horns, a mischievous grin, and a barbed tail is playfully holding an open, thick dictionary. The dictionary is clearly identifiable as a book of words, but its pages are entirely blank to ensure no text is present. No text, no words, no letters."
+  },
+  {
+    "word": "giai sự",
+    "explanation": "'Giai' được hiểu là 'giai nhân' (người phụ nữ đẹp). 'Sự' là 'sự kiện', một dịp lễ hội vui vẻ. Hình ảnh một người phụ nữ xinh đẹp đang mỉm cười rạng rỡ, vui vẻ giữa một bữa tiệc hoặc sự kiện có pháo hoa và hoa giấy bay lượn.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A stunningly beautiful woman in an elegant, flowing gown is smiling brightly, her face radiant with joy as she looks upwards. Around her, a shower of colorful confetti and sparkling fireworks burst in the background, clearly depicting a festive and celebratory 'event' ('sự kiện'). The overall atmosphere is one of immense happiness and festivity. No text, no words, no letters."
+  },
+  {
+    "word": "đái tật",
+    "explanation": "Để minh họa 'đái tật', chúng ta sẽ sử dụng hình ảnh chiếc giường bị ướt (thể hiện 'đái'). 'Tật' được biểu thị bằng một đồ vật có khiếm khuyết, bị hỏng hóc, ví dụ một chiếc bình hoa bị vỡ.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A slightly rumpled bed with white sheets features a distinct, light yellow wet stain clearly visible on the mattress or sheet, indicating urination. Next to the bed, a beautiful ceramic vase is visibly cracked and has a piece broken off, representing a 'defect' or 'flaw'. The scene is clear and focused on these two elements. No text, no words, no letters."
+  },
+  {
+    "word": "quản đốc",
+    "explanation": "'Quản' được chơi chữ thành 'quả' (trong quả táo, quả cam). 'Đốc' là đốc công, người quản lý hoặc giám sát. Hình ảnh một người đàn ông mặc vest lịch sự, trông như một đốc công, đang 'quản lý' hoặc chỉ đạo một quả táo khổng lồ.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A stern-faced man in a crisp business suit, resembling a 'manager' or 'foreman', stands authoritatively with his hands on his hips. He is positioned as if 'managing' or 'overseeing' a giant, perfectly round, vibrant red apple that is prominently placed in the scene, suggesting he is in charge of this 'quả' (apple/fruit). No text, no words, no letters."
+  },
+  {
+    "word": "cử đỉnh",
+    "explanation": "Để minh họa 'cử đỉnh', chúng ta sẽ dùng nghĩa cổ của từ 'đỉnh' là chiếc vạc đồng lớn, thường dùng trong các nghi lễ xưa. 'Cử' là giơ lên, nhấc lên. Hình ảnh một người đàn ông khỏe mạnh đang dùng hết sức để 'cử' (nhấc) một chiếc 'đỉnh' đồng lớn, nặng nề lên khỏi mặt đất.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A muscular, determined-looking man is straining with visible effort, muscles flexed, to 'lift' (cử) a massive, ornate ancient bronze 'đỉnh' (a heavy, three-legged ritual cauldron). The cauldron is partially lifted off the ground, emphasizing the man's immense strength and the significant weight of the object. No text, no words, no letters."
+  },
+  {
+    "word": "địa lôi",
+    "explanation": "Ý tưởng câu đố dựa trên việc tách nghĩa hai từ: 'địa' (đất đai, mặt đất) và 'lôi' (hành động kéo, lôi kéo). Hình ảnh một bàn tay đang lôi kéo một vật gì đó trên mặt đất.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A lush patch of green earth with a clear path or furrow dug into it. A strong, cartoonish human hand is actively pulling a thick, heavy rope that extends out of the ground, creating a visible drag mark on the earth. The rope is taut, suggesting effort. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "cá kiếm",
+    "explanation": "Ý tưởng câu đố dựa trên nghĩa đen của cụm từ: 'cá' (con cá) và 'kiếm' (cây kiếm). Hình ảnh một con cá đang mang theo hoặc có hình dạng một cây kiếm.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A friendly, cartoon-style blue fish swimming in clear, sparkling water. A shining silver sword is cleverly integrated as the fish's elongated snout, extending forward like a natural part of its body. The fish's eyes are wide and curious. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "vật thể",
+    "explanation": "Ý tưởng câu đố dựa trên việc tách nghĩa và chơi chữ: 'vật' (con vật, động vật) và 'thể' (cơ thể, hình thể). Hình ảnh một con vật đang khoe cơ thể của mình.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A muscular, comically exaggerated cartoon cat or dog flexing its biceps with a proud, confident expression. It's striking a bodybuilder pose, showcasing its physique. The background is simple and bright. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "khí ép",
+    "explanation": "Ý tưởng câu đố dựa trên nghĩa đen: 'khí' (hơi, không khí) và 'ép' (hành động nén, ép chặt). Hình ảnh khối khí đang bị ép bởi một lực nào đó.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A transparent, spherical container filled with visible, swirling light blue gas (representing 'khí'). Two giant, cartoonish mechanical hands are forcefully pressing on either side of the container, visibly compressing the gas within. The container itself shows slight deformation from the pressure. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "nói lảng",
+    "explanation": "Ý tưởng câu đố dựa trên nghĩa đen: 'nói' (hành động phát ra lời) và 'lảng' (lảng tránh, đi vòng, không đi thẳng vào vấn đề). Hình ảnh lời nói đi vòng vèo.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A cartoon character, mouth open as if speaking, positioned in the center. From their mouth, a long, wavy, transparent speech path or sound wave emanates, clearly curving and zig-zagging in a meandering pattern, not going in a straight direction. It's avoiding an implied direct path. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "se sẽ",
+    "explanation": "Ý tưởng câu đố dựa trên cách chơi chữ đồng âm: 'se sẽ' đọc gần giống 'sẻ sẻ'. Hình ảnh hai con chim sẻ đang ở cạnh nhau, thể hiện sự nhẹ nhàng, nhỏ bé.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. Two identical, cute, fluffy cartoon sparrows ('chim sẻ') perched gently side-by-side on a thin branch. Their poses are soft and calm, perhaps one slightly leaning into the other. They have gentle expressions. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "viễn phương",
+    "explanation": "Ý tưởng câu đố dựa trên việc tách nghĩa: 'viễn' (xa xôi, tầm nhìn xa) và 'phương' (phương hướng, phương trời). Hình ảnh một chiếc kính viễn vọng và một la bàn hoặc bản đồ chỉ hướng xa.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A stylized, old-fashioned brass telescope is prominently featured, pointing upwards towards a clear, star-studded night sky with a distant nebula. Beside the telescope, a luminous, detailed compass rose is subtly integrated into the ground, clearly indicating cardinal directions. The scene evokes vast distance. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "cầu khỉ",
+    "explanation": "Ý tưởng câu đố dựa trên nghĩa đen: 'cầu' (cây cầu) và 'khỉ' (con khỉ). Hình ảnh một cây cầu và những con khỉ đang đi trên đó.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A rustic, narrow, wobbly 'monkey bridge' made of a single log or a few thin planks, spanning a small, sparkling stream. Several playful, cartoonish monkeys are depicted carefully navigating or clinging to the bridge, looking a bit precarious but also adventurous. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "thác mơ",
+    "explanation": "Ý tưởng câu đố dựa trên nghĩa đen: 'thác' (thác nước) và 'mơ' (giấc mơ). Hình ảnh một thác nước với những yếu tố kỳ ảo, mộng mơ.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A majestic waterfall cascades down a rocky cliff. However, the water itself is not clear, but is composed of swirling, translucent, pastel-colored mist and ethereal elements like glowing stars, soft clouds, and subtle, abstract dream-like shapes, creating a magical, surreal effect. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "chủ nhân",
+    "explanation": "Ý tưởng câu đố dựa trên việc tách nghĩa: 'chủ' (người sở hữu, làm chủ) và 'nhân' (con người). Hình ảnh một con người đang cầm một vật biểu trưng cho quyền sở hữu hoặc sự làm chủ.",
+    "imagePrompt": "A vibrant 3D render, game mobile style. A confident, cartoon human figure (male or female, neutral appearance) standing tall with a proud, slightly triumphant expression. They are holding up a single, large, ornate golden key, designed to look like a 'master key' or a key to a significant domain. The background is simple, emphasizing the figure and the key. The scene is bright and colorful. Clear details, no text, no words, no letters."
+  },
+  {
+    "word": "rẽ ràng",
+    "explanation": "Để thể hiện 'Rẽ', hình ảnh con đường chia làm hai ngả, tạo thành chữ 'Y' rõ rệt. Để thể hiện 'Ràng' (trong 'ràng buộc', 'rõ ràng'), hình ảnh những sợi dây thừng hoặc xích đang buộc chặt, cố định một vật gì đó một cách rõ ràng và chắc chắn.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. In the foreground, a distinct dirt path splits into two separate directions, forming a clear 'Y' shape. Slightly to the side, a bundle of items (like logs or boxes) is tightly secured with several thick, visible ropes or chains that crisscross and bind them together, emphasizing the act of binding and clarity. No text, no words, no letters."
+  },
+  {
+    "word": "ninh thới",
+    "explanation": "Để thể hiện 'Ninh', hình ảnh một nồi nước đang sôi liu riu trên bếp, với hơi nước bốc lên nhẹ nhàng. Để thể hiện 'Thới' (trong 'thời gian'), hình ảnh một chiếc đồng hồ cát hoặc đồng hồ cổ điển, tượng trưng cho thời gian đang trôi.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. On a rustic wooden countertop, a traditional clay pot is gently simmering over a small, contained fire or stove burner, with subtle steam rising. Next to it, an elegant, antique hourglass is prominently displayed, with sand clearly flowing from the top bulb to the bottom, signifying the passage of time. No text, no words, no letters."
+  },
+  {
+    "word": "giám hiệu",
+    "explanation": "Để thể hiện 'Giám' (giám sát), hình ảnh một con mắt lớn, mở to và chăm chú quan sát. Để thể hiện 'Hiệu' (hiệu trưởng, trường học), hình ảnh một mô hình ngôi trường học nhỏ, có cổng và tháp chuông. Con mắt sẽ nhìn xuống ngôi trường.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A prominent, stylized watchful eye, open and alert, floats or is positioned slightly above, looking down with focus. Below it, a charming, miniature model of a classic school building with a small bell tower and tiny windows is clearly visible. The eye's gaze is directed towards the school. No text, no words, no letters."
+  },
+  {
+    "word": "chó đẻ",
+    "explanation": "Để thể hiện 'Chó', hình ảnh một con chó mẹ hiền lành. Để thể hiện 'Đẻ', hình ảnh con chó mẹ đang nằm cùng với những chú chó con sơ sinh đang bú sữa hoặc ngủ cạnh bên, thể hiện sự sinh sản và nuôi dưỡng.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A gentle mother dog, perhaps a golden retriever or a similar friendly breed, is lying comfortably on a soft blanket. Beside her, several tiny, adorable newborn puppies are nestled close, some suckling, others sleeping peacefully, clearly showing the act of a mother giving birth and nurturing her young. No text, no words, no letters."
+  },
+  {
+    "word": "tài phiệt",
+    "explanation": "Để thể hiện 'Tài' (tài sản, giàu có), hình ảnh một đống tiền vàng, châu báu và các cọc tiền giấy cao ngất. Để thể hiện 'Phiệt' (phe phái, quyền lực), hình ảnh một nhóm nhỏ (khoảng 3-4 người) ăn mặc sang trọng, đứng cùng nhau, toát lên vẻ quyền lực và sự đoàn kết của một phe phái.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. In the foreground, a towering, overflowing pile of glittering gold coins, stacks of paper money, and precious jewels, representing immense wealth. Standing prominently next to this treasure, a small, distinct group of three to four figures, dressed in sophisticated, formal attire, stands together, looking authoritative and united as a powerful faction. No text, no words, no letters."
+  },
+  {
+    "word": "độ tụ",
+    "explanation": "Để thể hiện 'Độ' (đo độ), hình ảnh một chiếc thước đo độ (thước đo góc) lớn, trong suốt. Để thể hiện 'Tụ' (tập trung, hội tụ), hình ảnh nhiều đường thẳng hoặc vật thể nhỏ đang cùng hướng về và hội tụ tại một điểm duy nhất, nằm ở trung tâm chiếc thước đo độ.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A large, transparent protractor is clearly visible, displaying its degree markings. Positioned centrally in front of or behind the protractor, multiple distinct visual elements (such as arrows, lines, or small, identical objects) are all pointed directly towards and converging at a single, precise central point, emphasizing the act of gathering or focusing. No text, no words, no letters."
+  },
+  {
+    "word": "ông tạo",
+    "explanation": "Để thể hiện 'Ông', hình ảnh một ông lão râu tóc bạc phơ, khuôn mặt hiền từ. Để thể hiện 'Tạo' (sáng tạo), đôi bàn tay của ông lão đang nặn, tạo hình một vật thể nào đó từ đất sét hoặc đang vẽ tranh, thể hiện hành động sáng tạo.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A kind-faced, elderly man with a long white beard, wearing simple, traditional attire, is intently focused. His hands are actively engaged in the process of creation, meticulously shaping a small, intricate clay sculpture on a potter's wheel, or painting a detailed landscape on a canvas. The emphasis is on his creating hands. No text, no words, no letters."
+  },
+  {
+    "word": "tinh thuần",
+    "explanation": "Để thể hiện 'Tinh' (tinh chất, tinh túy), hình ảnh một giọt chất lỏng trong suốt, lấp lánh và hoàn hảo, như một giọt tinh dầu. Để thể hiện 'Thuần' (tinh khiết, thuần khiết), hình ảnh một khối vật chất màu trắng muốt, không tì vết và nguyên sơ, như một đám mây hoặc tuyết trắng tinh.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. A single, perfectly spherical, crystal-clear, shimmering drop of liquid is delicately suspended, about to fall onto a pristine, untouched surface of pure white, soft-looking substance, like fresh snow or a cloud, emphasizing purity and essence. The droplet reflects light vividly. No text, no words, no letters."
+  },
+  {
+    "word": "biết bụng",
+    "explanation": "Để thể hiện 'Biết' (hiểu biết), hình ảnh một chiếc bóng đèn phát sáng đặt phía trên đầu. Để thể hiện 'Bụng', hình ảnh một chiếc bụng người được vẽ cách điệu hoặc làm trong suốt, bên trong có thể thấy được những bong bóng suy nghĩ hoặc biểu tượng cảm xúc nhỏ, ám chỉ sự 'biết' được 'tâm tư' bên trong.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. Above a stylized, semi-transparent outline of a human torso, specifically highlighting the abdominal area, a brightly glowing lightbulb is prominently depicted, symbolizing an idea or understanding. Inside the transparent belly outline, faint, whimsical thought bubbles or simple symbolic images (like a question mark or a tiny heart) are subtly visible, suggesting inner thoughts or feelings. No text, no words, no letters."
+  },
+  {
+    "word": "đông âu",
+    "explanation": "Để thể hiện 'Đông' (phía Đông), hình ảnh mặt trời đang mọc ở phía chân trời, với ánh nắng ban mai. Để thể hiện 'Âu' (châu Âu), hình ảnh một bản đồ đơn giản của châu Âu, trong đó phần Đông Âu được làm nổi bật hoặc được đánh dấu rõ ràng.",
+    "imagePrompt": "A vibrant 3D render, game mobile style, vibrant colors, clear details. In the upper left corner, a stylized, warm yellow and orange sun is clearly depicted in the act of rising above a subtle horizon line, indicating the East. Below and to the right, a simplified, recognizable map outline of the European continent is rendered. The eastern portion of this map is distinctly highlighted or glows faintly, making 'Eastern Europe' stand out. No text, no words, no letters."
+  },
+  {
+    "word": "hòn lố",
+    "explanation": "Một viên đá (hòn) với nhiều lỗ thủng (lố/lỗ) trên bề mặt, tạo hình ảnh một hòn đá bị 'lố' (lỗ).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A smooth, round grey stone, riddled with numerous perfectly circular holes of varying sizes. The holes go all the way through the stone, creating a swiss-cheese like appearance. The stone is resting on a simple, green grassy patch under a bright blue sky. No text, no words, no letters."
+  },
+  {
+    "word": "thuần mang",
+    "explanation": "Một con hươu mang (Muntjac deer) đã được thuần hóa (thuần), đang nằm hoặc đứng một cách hiền lành, biểu thị sự 'thuần' (hiền lành, được thuần hóa) của con 'mang'.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A small, docile Muntjac deer with soft brown fur, standing calmly in a lush, green forest clearing. Its posture is relaxed and gentle, suggesting it is tame or 'thuần'. Bright sunlight filters through the trees. No text, no words, no letters."
+  },
+  {
+    "word": "quân quan",
+    "explanation": "Một người lính (quân) trong quân phục hiện đại đứng cạnh một vị quan chức (quan) với trang phục truyền thống hoặc phẩm phục quan lại, thể hiện sự kết hợp giữa 'quân' (người lính) và 'quan' (quan chức).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On the left, a soldier dressed in a modern military uniform, standing at attention, looking serious. On the right, a traditional Vietnamese mandarin (quan) in a flowing, formal ao dai-like robe and a distinctive hat, holding a fan. They are standing side-by-side or facing each other respectfully. The setting is a bright, open public square or palace courtyard. No text, no words, no letters."
+  },
+  {
+    "word": "mạt diệp",
+    "explanation": "Một chiếc lá (diệp) duy nhất còn sót lại trên cành cây khẳng khiu vào cuối mùa đông, hoặc một chiếc lá khô héo, sắp rụng, thể hiện sự 'cuối cùng' hay 'tàn tạ' (mạt) của chiếc lá.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A single, withered, brown-orange leaf (diệp) clinging precariously to a bare, spindly branch of a tree, set against a gloomy, overcast sky. The branch is almost devoid of other leaves, emphasizing that this is the 'last' leaf. The leaf looks fragile and on the verge of falling. No text, no words, no letters."
+  },
+  {
+    "word": "khuây khoả",
+    "explanation": "Một nhân vật hoạt hình ban đầu có vẻ mặt buồn bã, lo âu (thể hiện bằng đám mây đen nhỏ phía trên), sau đó dần hiện rõ nụ cười, dáng vẻ thư thái, thanh thản, và đám mây đen tan biến, ánh nắng xuất hiện, biểu trưng cho sự giải tỏa, an ủi (khuây khoả).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. The scene depicts a stylized human figure, initially hunched over with visible lines implying stress or sadness around their form. In a continuous, flowing motion, this figure slowly straightens up, their posture becoming open and relaxed. Above them, a stylized dark cloud dissipates, replaced by warm, glowing rays of sunshine breaking through. The background transitions from a muted grey to a soft, serene green landscape. No text, no words, no letters."
+  },
+  {
+    "word": "hao sút",
+    "explanation": "Một chồng tiền vàng (hoặc một vật thể có thể bị hao mòn) đang dần vơi đi, số lượng giảm sút rõ rệt, hoặc mực nước trong bình đang cạn dần, thể hiện sự tiêu hao, suy giảm (hao sút).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A tall, neat stack of golden coins is depicted on the left. Next to it, on the right, is a significantly shorter stack of identical coins, clearly showing a reduction in height and quantity. The difference between the two stacks should be very apparent, illustrating depletion. The coins are shiny and metallic. The background is a simple, clean surface. No text, no words, no letters."
+  },
+  {
+    "word": "chạm cốc",
+    "explanation": "Hai chiếc cốc (ly) thủy tinh hoặc cốc bia đang cụng vào nhau, phát ra âm thanh 'leng keng', biểu trưng cho hành động chúc mừng (chạm cốc).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. Two elegant, clear glass mugs (cốc) filled with a golden, bubbly liquid (like beer or champagne) are positioned in the center, captured at the exact moment their rims lightly touch or 'clink' together in a toast. A subtle ripple or glow emanates from the point of contact. The background is softly blurred, suggesting a festive, celebratory atmosphere. No text, no words, no letters."
+  },
+  {
+    "word": "hòa thuận",
+    "explanation": "Hai bàn tay (hoặc hai nhân vật) đang nắm chặt nhau thân ái, với biểu cảm vui vẻ, không khí xung quanh tràn ngập sự bình yên, hòa hợp, thể hiện sự đoàn kết, đồng lòng (hòa thuận).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. Two stylized hands, one light-skinned and one slightly darker-skinned, are clasped together firmly in a handshake, symbolizing agreement and unity. Around the clasped hands, gentle, flowing lines of soft, warm light (like a peaceful aura) emanate outwards. The background is a serene, pastel blue and green gradient. No text, no words, no letters."
+  },
+  {
+    "word": "bệ kiến",
+    "explanation": "Một người đang quỳ gối hoặc cúi mình trang trọng trước một chiếc ngai vàng (bệ) hoặc một bục cao quyền quý, tượng trưng cho hành động yết kiến (kiến) một vị vua hoặc người có địa vị cao.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. In the foreground, a humble, stylized human figure (wearing simple robes, no specific features) is shown kneeling respectfully on one knee, head bowed, facing a majestic golden throne (bệ) positioned on a raised platform in the background. The throne is empty but implies presence and power. The setting is a grand, opulent hall with soft lighting. No text, no words, no letters."
+  },
+  {
+    "word": "tình cương",
+    "explanation": "Một trái tim (tình) màu đỏ tươi đang bị kéo hoặc được điều khiển bằng hai sợi dây cương (cương), tượng trưng cho tình yêu bị ràng buộc hoặc dẫn dắt.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A vibrant, stylized red heart (tình) floats in the center. Connected to this heart, on either side, are two sturdy, brown leather reins (cương), stretched taut as if pulling or guiding the heart. The reins extend slightly out of the frame. The background is a soft, dreamlike gradient of pink and purple. No text, no words, no letters."
+  },
+  {
+    "word": "rềnh ràng",
+    "explanation": "Hình ảnh một nhân vật hoạt hình đang cố gắng di chuyển nhưng bị nhiều sợi dây thừng lớn (ràng) buộc chặt quanh người và chân, làm chậm bước. Xung quanh chân nhân vật còn có một vũng nước hoặc chất lỏng nhớt đang chảy chậm (rềnh), tăng thêm cảm giác trì trệ, khó khăn.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A cartoon character, struggling to move. Many thick, binding ropes are tied tightly around its legs and body, visibly hindering its movement. Around its feet, there's a slow-moving, shimmering puddle of thick, translucent liquid, creating drag. The character's posture conveys extreme slowness and impediment. No text, no words, no letters."
+  },
+  {
+    "word": "mán xá",
+    "explanation": "Hình ảnh một ngôi làng nhỏ truyền thống của Việt Nam (xá). Nổi bật ở tiền cảnh là một chuồng heo nhỏ mộc mạc (mán) với vài chú heo con hoạt hình bên trong.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A cozy, small traditional Vietnamese village scene, with rustic houses and green trees. In the clear foreground, a distinct, rustic pigsty (a wooden fence enclosure with a simple roof) is visible, containing two cartoonish, friendly piglets. The village represents 'xá', and the pigsty represents 'mán'. No text, no words, no letters."
+  },
+  {
+    "word": "tươi nhuận",
+    "explanation": "Một bông hoa hồng đỏ thắm, rực rỡ và đang nở rộ (tươi). Trên những cánh hoa có nhiều giọt sương tròn, trong suốt, lấp lánh, làm cánh hoa trông căng mọng và bóng mượt (nhuận).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A single, exquisitely vibrant, perfectly bloomed red rose. Several large, spherical, crystal-clear dewdrops glisten beautifully on its velvety petals, making them appear supple, moist, and incredibly fresh. The focus is on the radiant flower and the sparkling water droplets. No text, no words, no letters."
+  },
+  {
+    "word": "hư đời",
+    "explanation": "Một quả địa cầu cách điệu (đời) bị nứt vỡ nghiêm trọng ở nhiều nơi, có những mảnh vỡ đang rơi ra (hư). Xung quanh có thể có những đám mây đen, u ám, biểu tượng cho sự suy đồi.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A stylized Earth globe, prominently displayed. This globe is visibly cracked and crumbling in multiple places, with fragments breaking away and floating nearby, signifying damage. Dark, ominous clouds are swirling around the broken globe, adding a sense of decay and corruption. No text, no words, no letters."
+  },
+  {
+    "word": "tuỳ tướng",
+    "explanation": "Một vị tướng quân oai phong, trang phục lộng lẫy (tướng) đứng ở phía trước. Ngay phía sau ông, hơi lệch sang một bên, là một chiến binh nhỏ hơn, cũng trong trang phục tướng lĩnh nhưng đơn giản hơn, đang nhìn lên vị tướng phía trước với vẻ phục tùng, theo sau (tuỳ).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A majestic, imposing general in full, ornate armor stands confidently at the forefront. Directly behind him, slightly to his side and appearing a bit smaller, is a subordinate warrior figure, also in armor but less elaborate, gazing up at the main general with a clear expression of deference and following. The composition clearly shows one leading and the other following. No text, no words, no letters."
+  },
+  {
+    "word": "ngũ thục",
+    "explanation": "Số \"5\" được hiển thị rõ nét và lớn. Xung quanh số 5 là năm loại cây lương thực hoặc hạt nông sản khác nhau (gạo, lúa mì, đậu, bắp, v.v.) đang ở trạng thái chín mọng, căng tròn, sẵn sàng thu hoạch (thục).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A large, prominent, stylized numeral \"5\" floats in the center. Arranged artistically around the \"5\" are five distinct types of ripe, plump agricultural products: golden wheat stalks, ears of corn, clusters of rice grains, bean pods, and plump sesame seeds. Each item looks fully mature and ready for harvest, conveying ripeness. No text, no words, no letters."
+  },
+  {
+    "word": "mụn nước",
+    "explanation": "Một phần da cách điệu, phóng to, trên đó có nhiều nốt phồng rộp nhỏ, trong suốt, chứa đầy chất lỏng trong veo giống như nước (mụn nước). Chúng hiện rõ và tách biệt, trông như những bong bóng nước nhỏ trên da.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A magnified, stylized section of human skin, showing several distinct, small, spherical, and perfectly transparent blisters. These blisters are clearly filled with shimmering, clear water, giving them a bubble-like appearance on the skin surface. No text, no words, no letters."
+  },
+  {
+    "word": "rướn vai",
+    "explanation": "Một nhân vật hoạt hình đứng thẳng, hai vai (vai) được nhấc lên cao một cách rõ ràng, gần sát tai, như thể đang cố gắng rướn người để với lấy thứ gì đó hoặc biểu lộ sự không biết. Toàn bộ trọng tâm là hành động nhún/rướn vai lên.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A cartoon character, standing upright. Its shoulders are dramatically elevated and pushed high up towards its ears, conveying a distinct \"rướn\" (straining/stretching upwards) motion, as if shrugging or trying to reach something just out of grasp. The focus is entirely on the exaggerated upward position of the shoulders. No text, no words, no letters."
+  },
+  {
+    "word": "không bào",
+    "explanation": "Hình ảnh cắt ngang một tế bào thực vật cách điệu (bào). Bên trong tế bào, chiếm phần lớn không gian, là một khoang rỗng lớn, hoàn toàn trống rỗng và trong suốt (không), đại diện cho không bào.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A magnified, cross-sectional view of a stylized plant cell. Dominating the interior of this cell is a single, large, perfectly transparent, and visibly empty sac or bubble, clearly representing a vacuole. The surrounding cell wall and membrane are distinct, but the inside of the large sac is entirely void. No text, no words, no letters."
+  },
+  {
+    "word": "khuyển ưng",
+    "explanation": "Một con đại bàng (ưng) oai vệ đang sải cánh bay cao trên bầu trời xanh. Phía dưới mặt đất, một chú chó (khuyển) dũng mãnh và cảnh giác đang đứng ngước nhìn lên bầu trời về phía con đại bàng.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A majestic golden eagle with outstretched wings is soaring high in a clear blue sky. On the ground below, a watchful, noble dog (e.g., a husky or German Shepherd type) stands alert, looking upwards intensely towards the soaring eagle. The composition emphasizes both animals in their respective environments, hinting at their connection. No text, no words, no letters."
+  },
+  {
+    "word": "ất bảng",
+    "explanation": "Từ \"ất\" được chơi chữ thành âm gần giống \"hết\" (nghĩa là trống rỗng, không có gì). Kết hợp với hình ảnh một cái bảng viết (bảng) hoàn toàn trống trơn, sạch sẽ, không có chữ hay hình vẽ nào, gợi ý cụm từ \"hết bảng\".",
+    "imagePrompt": "A perfectly clean and empty classroom blackboard. The board is dark green or black, smooth and spotless, implying it has been completely erased. A sponge and a chalk duster are neatly placed side by side on the bottom tray of the blackboard. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "than chì",
+    "explanation": "Vẽ hình ảnh một cục than đá (than) đặt cạnh một mẩu ruột chì bút chì (chì). Hai vật thể này ghép lại tạo thành cụm từ.",
+    "imagePrompt": "A stylized, jagged lump of dark, shiny coal rests on a smooth, neutral surface. Next to it, clearly visible, is a small, thin, dark grey cylindrical piece of graphite (pencil lead). The contrast between the rough coal and the refined graphite is clear. The background is simple and clean. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "lá rộng",
+    "explanation": "Vẽ một chiếc lá cây có kích thước lớn bất thường, đặc biệt là chiều ngang rất rộng, nổi bật so với các yếu tố khác trong khung cảnh để nhấn mạnh đặc điểm \"rộng\".",
+    "imagePrompt": "A single, oversized, vibrant green leaf dominates the foreground, spread out extremely wide and flat. The leaf should have clearly defined veins and a natural, slightly glossy texture. The background is a soft, blurred array of other green foliage, emphasizing the singular, broad leaf. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "bi thu",
+    "explanation": "Vẽ hình ảnh một bàn tay đang gom nhặt, thu lượm những viên bi ve (bi) lại với nhau, hoặc cho vào một cái túi nhỏ. Hành động \"thu\" (gom) và vật thể \"bi\" (bi ve) kết hợp lại.",
+    "imagePrompt": "A stylized, human-like hand gently gathering a scattered collection of colorful glass marbles (bi ve) into a small, open, fabric pouch or into a neat pile. The marbles are glistening with various patterns and bright colors. The action of 'gathering' or 'collecting' is central. The background is a soft, warm blur. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "giáo chức",
+    "explanation": "Để thể hiện \"giáo\" (giáo dục), vẽ một cuốn sách giáo khoa mở ra. Để thể hiện \"chức\" (chức vụ, địa vị), đặt cuốn sách đó lên một chiếc ghế có hình dáng trang trọng, uy nghi, thường dành cho người có chức quyền (ghế chức).",
+    "imagePrompt": "A thick, open textbook with generic educational symbols (like geometric shapes, simple diagrams, no text) on its pages, resting on a grand, ornate, empty armchair or a plush executive chair. The chair should look like a symbol of office or high position, made of rich material like dark wood and velvet. The book represents 'education' and the chair represents 'position/office'. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "mời rơi",
+    "explanation": "Vẽ một bàn tay đang làm động tác \"mời\" (vẫy vẫy hoặc chỉ ra hiệu) về phía một vật thể (ví dụ: một chiếc lá, một giọt nước, một đồng xu) đang trong trạng thái \"rơi\" từ trên cao xuống.",
+    "imagePrompt": "A stylized human hand, seen from the side, with fingers gently curved and palm facing slightly upwards, making a welcoming or inviting gesture. Above the hand, a single, perfectly formed raindrop or a small, colorful leaf is visibly falling downwards, creating a clear sense of 'dropping'. The background is soft and minimalist. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "tủi thân",
+    "explanation": "Vẽ một nhân vật hoạt hình nhỏ bé, dáng vẻ buồn bã, co ro, tay ôm lấy thân mình như đang cảm thấy cô đơn, tủi hờn. Khuôn mặt thể hiện sự buồn bã, đáng thương để diễn tả cảm giác \"tủi thân\".",
+    "imagePrompt": "A small, stylized, slightly cartoonish human figure, appearing sad and withdrawn. The figure is hunched over, with arms wrapped around its own body, looking down at its feet, conveying a strong sense of shame or self-pity. The color palette is slightly muted and cool-toned to enhance the melancholic mood. The figure is isolated in a simple, open space. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cổ kênh",
+    "explanation": "Vẽ một chiếc cổ người hoặc cổ động vật (ví dụ hươu cao cổ) kéo dài ra một cách phi lý, sau đó chuyển tiếp một cách mượt mà, liền mạch thành một con kênh nước nhỏ, chảy dài.",
+    "imagePrompt": "A surreal and whimsical image where a long, graceful neck (like that of a stylized giraffe or a slender human neck) smoothly transitions into a flowing, narrow water canal. The neck starts at the bottom of the frame, curves elegantly upwards, and then seamlessly turns into a tranquil, blue water channel receding into the distance. Lush green banks line the canal. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "thai nhi",
+    "explanation": "Vẽ hình ảnh bụng bầu tròn của người phụ nữ (thai) cùng với hình ảnh một em bé sơ sinh (nhi) nằm gọn gàng bên trong bụng mẹ, hoặc xuất hiện lấp ló rõ nét qua thành bụng ảo diệu.",
+    "imagePrompt": "A stylized, glowing, and rounded depiction of a pregnant woman's belly. Inside, or subtly visible through a translucent effect on the skin, a small, peaceful, sleeping infant (fetus) is clearly outlined in a fetal position. The image focuses on the harmony of 'thai' (belly) and 'nhi' (baby). Soft, warm lighting illuminates the scene. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "thành hưng",
+    "explanation": "Vẽ một cảnh quan thành phố (thành) với những tòa nhà cao tầng, đường xá sầm uất. Trên bầu trời hoặc xung quanh thành phố, có những biểu tượng của sự thịnh vượng, phát đạt như tia sáng vàng, tiền vàng rơi xuống, hoặc những bông hoa nở rộ (biểu tượng của sự \"hưng thịnh\").",
+    "imagePrompt": "A stylized, vibrant city skyline with modern buildings, bustling roads, and bright lights, representing 'thành' (city/achieve). Above and around the city, shimmering golden light rays, stylized floating golden coins, and blossoming flowers (like cherry blossoms or other auspicious flowers) are depicted, symbolizing 'hưng' (prosperity, flourishing). The overall impression is one of a thriving, successful, and prosperous city. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "khoái ý",
+    "explanation": "Từ 'Khoái' đọc gần giống 'khói' (smoke). Từ 'Ý' tượng trưng cho ý tưởng, được biểu thị bằng bóng đèn.",
+    "imagePrompt": "A stylized, cartoonish smoke cloud or puff with a glowing lightbulb illuminating from its center, rendered in a 3D mobile game style. Vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "thấp điểm",
+    "explanation": "'Thấp' thể hiện vị trí ở dưới cùng. 'Điểm' là điểm số, được biểu thị bằng một dấu chấm nhỏ trên một thang đo.",
+    "imagePrompt": "A vertical measuring tape or ruler, stylized like a game UI element, with a prominent marker pointing to the very bottommost segment. A small, singular dot is visible at the absolute lowest point of the scale. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "tiết phụ",
+    "explanation": "'Tiết' gợi liên tưởng đến 'tiết kiệm', biểu tượng là chú heo đất. 'Phụ' gợi liên tưởng đến 'phụ nữ', biểu tượng là hình ảnh một người phụ nữ.",
+    "imagePrompt": "A cheerful, cartoonish piggy bank is standing next to a stylized silhouette or simple iconic representation of a woman (e.g., a dress with a head). Both elements are rendered in a 3D mobile game style, with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "nguyên cứ",
+    "explanation": "'Nguyên' là nguyên vẹn, trọn vẹn, biểu thị bằng một quả táo tròn vẹn không tì vết. 'Cứ' là căn cứ, nền tảng, biểu thị bằng một bệ đá vững chắc.",
+    "imagePrompt": "A perfectly whole, unblemished red apple rests atop a sturdy, ancient-looking stone pedestal or foundation block. The scene is rendered in a 3D mobile game style, with vibrant colors and clear details. No text, no words, no letters."
+  },
+  {
+    "word": "lạc màu",
+    "explanation": "'Lạc' là lạc lõng, sai vị trí. 'Màu' là màu sắc. Biểu thị bằng một khối màu bị lệch khỏi dải màu chuẩn, hoặc có màu sắc hoàn toàn khác biệt so với dải màu chung.",
+    "imagePrompt": "A smooth, vibrant gradient of colors (e.g., rainbow spectrum) is depicted, but one distinct color block within the gradient is clearly out of place, perhaps slightly misaligned or replaced by a starkly contrasting monochrome block. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "xuất siêu",
+    "explanation": "'Xuất' là xuất khẩu, biểu thị bằng mũi tên hướng ra ngoài. 'Siêu' là vượt trội, nhiều hơn, biểu thị bằng mũi tên hướng ra ngoài lớn hơn rất nhiều so với mũi tên hướng vào (nhập khẩu).",
+    "imagePrompt": "A stylized, cartoonish factory building or shipping port with a very large, prominent arrow pointing outwards (representing export) and a much smaller, subtle arrow pointing inwards (representing import). The outward arrow significantly dominates the inward arrow in size and emphasis, suggesting a surplus. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cảnh tỉnh",
+    "explanation": "'Cảnh' là cảnh báo, báo động. 'Tỉnh' là tỉnh giấc, tỉnh ngộ. Biểu thị bằng một chiếc đồng hồ báo thức đang kêu lớn, bên cạnh là một đôi mắt vừa mở to và vẻ mặt giật mình.",
+    "imagePrompt": "A loud, classic alarm clock with bells ringing furiously, depicted next to a pair of wide-open, startled eyes. The overall expression suggests sudden awakening or realization. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "cương nghị",
+    "explanation": "'Cương' là cứng rắn, kiên cường, biểu thị bằng hình ảnh một khối thép vững chắc. 'Nghị' là nghị lực, ý chí, biểu thị bằng một nắm đấm thép đầy quyết đoán.",
+    "imagePrompt": "A powerful, stylized fist made of polished steel or reinforced iron, clenching firmly. It exudes an aura of unyielding strength and determination. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "mưu sát",
+    "explanation": "'Mưu' là mưu kế, âm mưu, biểu thị bằng hình ảnh một cái bẫy hoặc một mạng lưới phức tạp. 'Sát' là sát hại, kết thúc, biểu thị bằng dấu X lớn màu đỏ.",
+    "imagePrompt": "An intricate, stylized spiderweb or a complex snare trap is prominently featured. Superimposed or strategically placed within it is a bold, striking red 'X' mark, symbolizing an ending or termination. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "đào chú",
+    "explanation": "'Đào' là đào bới, biểu thị bằng một cái xẻng đang đào đất. 'Chú' là chú thích, chú ý, biểu thị bằng một chiếc kính lúp đang tập trung soi vào vùng đất đã đào.",
+    "imagePrompt": "A stylized shovel is depicted actively digging into a mound of earth, with dirt flying up. Directly above the excavated area, a large, prominent magnifying glass focuses intensely, highlighting the 'attention' or 'note' aspect. 3D render, game mobile style, vibrant colors, clear details. No text, no words, no letters."
+  },
+  {
+    "word": "thủy hử",
+    "explanation": "Để thể hiện 'thủy hử', chúng ta sẽ tách thành 'thủy' (nước) và 'hử' (âm đọc trại của 'hở' - bị rò rỉ, mở ra). Ý tưởng là vẽ một dòng nước đang chảy từ vòi nước bị hở (rò rỉ).",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A stylized brass water faucet, old and slightly corroded, with a steady stream of water leaking from a small, visible crack or joint in its pipe. The water forms a small puddle below. The setting is a clean, minimalist background, perhaps a stylized bathroom wall. No text, no words, no letters."
+  },
+  {
+    "word": "của này",
+    "explanation": "Để thể hiện 'của này', chúng ta sẽ dùng nghĩa 'của' là đồ vật, tài sản và 'này' là chỉ sự gần gũi, 'này đây'. Ý tưởng là vẽ một bàn tay đang chỉ vào một món đồ vật cụ thể, thể hiện 'của này'.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A human hand, stylized and cartoonish, with an index finger clearly pointing directly at a bright red apple. The apple is resting on a simple, elevated pedestal in the center of the frame. The background is a soft, gradient blue. No text, no words, no letters."
+  },
+  {
+    "word": "giúp đỡ",
+    "explanation": "Để thể hiện 'giúp đỡ', chúng ta sẽ diễn tả hành động hỗ trợ người khác. Ý tưởng là vẽ hai người: một người đang vươn tay lên và người còn lại đang kéo hoặc nâng người kia lên, thể hiện sự giúp đỡ lẫn nhau.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. Two stylized, gender-neutral cartoon characters. One character is slightly crouched, extending a hand upwards. The other character is reaching down, pulling the first character up with a firm grip. They are on a stylized, gentle slope or uneven ground. The background is a bright, cheerful outdoor setting with a clear sky. No text, no words, no letters."
+  },
+  {
+    "word": "cơm lứt",
+    "explanation": "Để thể hiện 'cơm lứt', chúng ta sẽ tách thành 'cơm' (hạt gạo đã nấu chín) và 'lứt' (âm đọc trại của 'nứt' - bị vỡ, rạn). Ý tưởng là vẽ một bát cơm và bên cạnh là một quả trứng bị nứt vỏ.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A small, white, stylized bowl filled with fluffy, white cooked rice. Next to the bowl, on a light wooden table, lies a brown chicken egg with a clearly visible crack running across its shell. The background is simple and clean, suggesting a kitchen counter. No text, no words, no letters."
+  },
+  {
+    "word": "cung nguyệt",
+    "explanation": "Để thể hiện 'cung nguyệt', chúng ta sẽ tách thành 'cung' (trong 'cung tên' - cây cung) và 'nguyệt' (mặt trăng). Ý tưởng là vẽ một cây cung đang giương lên và một vầng trăng tròn trên bầu trời đêm.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A classic wooden longbow, elegantly curved and stylized, with a taut string, positioned centrally. In the upper part of the frame, a bright, full, stylized moon shines against a deep blue, starry night sky. The bow is on a simple, dark ground. No text, no words, no letters."
+  },
+  {
+    "word": "bỏ mạng",
+    "explanation": "Để thể hiện 'bỏ mạng', chúng ta sẽ tách thành 'bỏ' (rời đi, từ bỏ) và 'mạng' (cái mạng lưới, cái lưới). Ý tưởng là vẽ một hình người đang quay lưng đi xa khỏi một cái lưới lớn bị bỏ lại trên mặt đất.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A stylized, silhouette-like human figure with a slightly slumped posture, walking away from the viewer towards the left side of the frame. On the ground to the right, a large, tangled fishing net is abandoned. The setting is a minimalist, sandy beach at dusk. No text, no words, no letters."
+  },
+  {
+    "word": "sâu lắng",
+    "explanation": "Để thể hiện 'sâu lắng', chúng ta sẽ tách thành 'sâu' (độ sâu) và 'lắng' (lắng đọng, trầm tích). Ý tưởng là vẽ một cái giếng rất sâu và ở đáy giếng có lớp trầm tích đang lắng đọng.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A cross-section view of a very deep, narrow well. The well shaft extends far down into the earth. At the very bottom, a layer of fine, settled sediment is visible. The water above is clear. The surrounding earth layers are visible in profile. No text, no words, no letters."
+  },
+  {
+    "word": "nông giang",
+    "explanation": "Để thể hiện 'nông giang', chúng ta sẽ tách thành 'nông' (có nghĩa là cạn, shallow) và 'giang' (sông). Ý tưởng là vẽ một con sông có mực nước rất thấp, để lộ ra đáy sông, thể hiện sự 'nông cạn' của con sông.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A wide, winding river with extremely shallow water, revealing much of its sandy and rocky riverbed. Small ripples are visible on the thin layer of water. Stylized, low-lying green banks are on either side. A clear, bright sky above. No text, no words, no letters."
+  },
+  {
+    "word": "xà kép",
+    "explanation": "Để thể hiện 'xà kép', chúng ta sẽ tách thành 'xà' (thanh ngang) và 'kép' (có nghĩa là đôi, hai cái). Ý tưởng là vẽ hai thanh xà ngang được đặt song song với nhau, như trong môn thể dục dụng cụ.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. Two perfectly parallel horizontal bars, made of polished wood or metal, standing on a stylized gym floor. They are evenly spaced, clearly indicating a pair. The background is a minimalist gym interior with soft lighting. No text, no words, no letters."
+  },
+  {
+    "word": "vũng tàu",
+    "explanation": "Để thể hiện 'vũng tàu', chúng ta sẽ tách thành 'vũng' (vùng nước nhỏ, vịnh) và 'tàu' (con thuyền, tàu thủy). Ý tưởng là vẽ một vịnh biển nhỏ hoặc một vũng nước lớn có một con tàu đang neo đậu hoặc trôi nổi.",
+    "imagePrompt": "3D render, game mobile style, vibrant colors, clear details. A serene, curving bay or large, clear puddle of water. Anchored within the water is a stylized, small fishing boat or a toy ship, floating calmly. The surrounding area is a sandy shore with a few stylized pebbles. A clear blue sky above. No text, no words, no letters."
+  },
+  {
+    "word": "mù tịt",
+    "explanation": "Vẽ một người bị bịt mắt hoàn toàn bằng một dải vải dày (mù). Bên cạnh đó, vẽ một cái ống nước bằng kim loại bị tắc nghẽn hoàn toàn, có nắp đậy kín ở cả hai đầu để thể hiện sự 'tịt' hay bế tắc.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A cartoon-style person wearing a thick, opaque blindfold completely covering their eyes. Next to them, a large, grey metal pipe that is clearly capped and sealed at both ends, emphasizing it's completely blocked. The scene is brightly lit with strong contrasts. No text, no words, no letters."
+  },
+  {
+    "word": "am mây",
+    "explanation": "Vẽ một ngôi am nhỏ, kiến trúc cổ kính kiểu Việt Nam, tọa lạc trên đỉnh núi cao. Xung quanh ngôi am và đỉnh núi có rất nhiều mây trắng bồng bềnh bao phủ, tạo khung cảnh huyền ảo và thanh tịnh.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A small, traditional Vietnamese temple with a curved, intricate roof, nestled on a verdant mountain peak. Thick, white, fluffy clouds surround and partially obscure the temple and the upper parts of the mountain, creating a serene, mystical, and misty atmosphere. The sky is bright blue above the clouds. No text, no words, no letters."
+  },
+  {
+    "word": "làm chủ",
+    "explanation": "Vẽ một nhân vật hoạt hình hoặc người đang tự tin điều khiển một con rối bằng dây hoặc một robot bằng cần điều khiển. Hành động 'điều khiển' thể hiện 'làm', và con rối/robot dưới sự kiểm soát hoàn toàn thể hiện 'chủ' (sự làm chủ).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A confident, smiling cartoon character skillfully manipulating the multiple strings of a brightly colored marionette puppet. The puppet mimics the character's movements perfectly, demonstrating complete control. The character has an expression of calm mastery. Vibrant, dynamic lighting. No text, no words, no letters."
+  },
+  {
+    "word": "trùng tang",
+    "explanation": "Vẽ ba vòng hoa tang lễ giống hệt nhau, xếp thẳng hàng và hơi chồng lên nhau một phần (trùng), gợi ý sự lặp lại của tang lễ. Có thể thêm một vài nén hương đang cháy.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. Three identical, large funeral wreaths, each adorned with white flowers and green leaves, are arranged in a slightly overlapping sequence on a stylized, dark ground. Each wreath has a single lit incense stick next to it, emitting a delicate wisp of smoke. The colors of the flowers and ribbons are vibrant against the somber backdrop. No text, no words, no letters."
+  },
+  {
+    "word": "xuân sơn",
+    "explanation": "Vẽ một ngọn núi hùng vĩ phủ đầy cây xanh tươi tốt. Trên sườn núi có nhiều cây hoa anh đào hoặc các loài hoa mùa xuân khác đang nở rộ rực rỡ sắc màu. Có thể có những dòng suối nhỏ chảy xuống và chim chóc bay lượn trên bầu trời xanh trong, đầy nắng.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A majestic mountain range covered in lush, vibrant green trees and grass. Numerous cherry blossom trees are in full bloom, dotting the slopes with soft pink and white flowers. Small, clear waterfalls cascade down the mountain, and colorful birds fly gracefully in a clear, bright blue sky, all vividly indicating springtime. No text, no words, no letters."
+  },
+  {
+    "word": "ha ha",
+    "explanation": "Vẽ một nhân vật hoạt hình đang cười phá lên rất sảng khoái, miệng mở to, mắt híp lại và có thể có những giọt nước mắt nhỏ lăn dài vì cười quá nhiều. Xung quanh nhân vật có các hiệu ứng hình ảnh mô phỏng sự vui vẻ, bay bổng như những ngôi sao nhỏ hoặc đường cong năng động.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A joyful, round, cartoon-style character (e.g., a yellow sun with a face, or a fluffy cloud) with a wide-open mouth, eyes squinted shut from exuberant laughter, and exaggerated tears of mirth streaming down its face. Dynamic, swirling lines and small, sparkling starbursts emanate from around the character to emphasize the jovial and explosive laughter. The background is a bright, cheerful gradient. No text, no words, no letters."
+  },
+  {
+    "word": "thạch xuân",
+    "explanation": "Vẽ một khối đá lớn, vững chãi hoặc một nhũ đá (thạch) trong hang động. Trên khối đá hoặc xung quanh chân nhũ đá đó, có những bông hoa mùa xuân tươi tắn, cành cây non đang đâm chồi nảy lộc (xuân) mọc lên, tạo sự đối lập giữa sự cứng cáp của đá và sự mềm mại, tươi mới của mùa xuân.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A massive, rugged grey rock formation or a striking stalagmite rising from the ground, with a textured, ancient look. Around its base and even delicately clinging to its crevices, vibrant spring flowers (like tiny cherry blossoms, colorful wild blossoms, and fresh green shoots of new life) are blooming, symbolizing 'spring' on 'stone.' Bright, natural light illuminates the scene. No text, no words, no letters."
+  },
+  {
+    "word": "cựa cậy",
+    "explanation": "Vẽ hai chiếc que hoặc hai mảnh gỗ mảnh khảnh, màu sắc khác nhau, đang chụm vào nhau, dựa vào nhau ở phần trên để có thể đứng vững. Nếu một trong hai bị tách ra, chiếc còn lại sẽ đổ, thể hiện ý nghĩa dựa dẫm, nương tựa lẫn nhau.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. Two slender, stylized wooden sticks, one vibrant red and one vibrant blue, are standing upright by leaning against each other at their top ends. They are perfectly balanced, illustrating mutual reliance and support. The background is a clean, minimalist white or light grey to make the sticks stand out. No text, no words, no letters."
+  },
+  {
+    "word": "mạng lưới",
+    "explanation": "Vẽ một tấm lưới đánh cá lớn với nhiều nút thắt và mắt lưới đan xen chặt chẽ, trải rộng ra. Xen kẽ trong tấm lưới là những chấm sáng nhỏ kết nối với nhau bằng các đường mờ ảo, gợi lên hình ảnh mạng lưới công nghệ hoặc dữ liệu.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A vast, intricate fishing net made of strong, thick, colorful fibers, spread out and gently curving. Interspersed within the net are glowing, futuristic nodes connected by faint, luminous lines, symbolizing a digital network or web, blending the literal 'net' with the abstract 'network.' The lighting emphasizes depth and connection. No text, no words, no letters."
+  },
+  {
+    "word": "độc bình",
+    "explanation": "Vẽ một chiếc bình hoa gốm sứ được thiết kế tinh xảo, màu sắc nổi bật, đứng trơ trọi một mình trên một mặt phẳng rộng lớn. Không có bất kỳ vật thể nào khác xung quanh, nhấn mạnh vẻ đẹp độc đáo và sự cô đơn của chiếc bình.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A single, exquisitely crafted ceramic vase, perhaps with intricate traditional patterns and vibrant colors (e.g., cobalt blue or jade green), stands perfectly centered and isolated on a wide, empty, polished surface. The background is minimalist and clean, with soft ambient lighting, emphasizing the vase's solitary presence and unique beauty. No text, no words, no letters."
+  },
+  {
+    "word": "oát kế",
+    "explanation": "Vẽ một xô nước đang bị đổ 'oạt' xuống đất, tạo thành một vệt nước lớn. Bên cạnh là một cây thước kẻ hoặc một chiếc đồng hồ đo, tượng trưng cho 'kế'.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A bucket is tipping over, spilling a large amount of water onto the ground, creating a distinct 'splashing' or 'oạt' visual effect. Next to the spilling water, there is a prominent, classic yellow ruler with clearly visible measurement markings. The scene is brightly lit. No text, no words, no letters."
+  },
+  {
+    "word": "cd rom",
+    "explanation": "Vẽ một chiếc đĩa CD. Kế bên là một người hoặc con vật rất gầy gò, ốm yếu (ròm), thể hiện sự 'ròm'.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. On a clean, brightly lit surface, there is a shiny, reflective compact disc (CD). Standing very close to the CD is a very thin, skinny, almost emaciated cartoon character (e.g., a stick figure human or a very gaunt animal like a dog), clearly representing 'ròm'. The background is simple and clean. No text, no words, no letters."
+  },
+  {
+    "word": "quân hạm",
+    "explanation": "Vẽ một người lính hoặc quân nhân trong quân phục. Bên cạnh là một chiếc tàu thủy lớn với các đặc điểm của tàu chiến (ví dụ: pháo, radar).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A stylized cartoon soldier, wearing a military uniform, stands at attention on a dock. Beside the soldier, a large, impressive warship is docked in the water. The ship has visible cannons and radars, indicative of a military vessel. The sky is bright blue. No text, no words, no letters."
+  },
+  {
+    "word": "thu thú",
+    "explanation": "Vẽ một khung cảnh mùa thu với lá vàng, lá đỏ rơi (thu). Ở giữa khung cảnh đó là một con vật (thú) bất kỳ, ví dụ một chú chó hoặc mèo.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A beautiful autumn landscape with trees displaying vibrant red, orange, and yellow leaves. Many fallen leaves are scattered on the ground. In the center of this autumn scene, a friendly-looking cartoon animal (e.g., a dog or a cat) is playfully interacting with the leaves. The lighting suggests a warm autumn day. No text, no words, no letters."
+  },
+  {
+    "word": "bã hơi",
+    "explanation": "Vẽ một đống bã mía hoặc bã cà phê đã được vắt kiệt. Từ đống bã đó đang bốc lên một làn khói nhẹ hoặc hơi nước.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A pile of brown, compressed sugarcane pulp (bã mía) or coffee grounds (bã cà phê), looking like residue after extraction. From this pile, a subtle wisp of light gray steam or vapor is gently rising upwards. The background is neutral, focusing on the main elements. No text, no words, no letters."
+  },
+  {
+    "word": "dương tính",
+    "explanation": "Vẽ một mặt trời đang tỏa nắng rực rỡ (dương). Kế bên mặt trời là một phép tính cộng hoặc dấu cộng lớn, tượng trưng cho 'tính'.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A large, stylized, bright yellow sun with prominent rays is shining intensely. Immediately next to the sun, there is a distinct, large red plus sign (+), as if from a mathematical calculation. The background is a clear blue sky. No text, no words, no letters."
+  },
+  {
+    "word": "lử thử",
+    "explanation": "Vẽ một ngọn lửa nhỏ đang cháy (lửa, tượng trưng cho 'lử'). Bên cạnh là một phong thư (thư, tượng trưng cho 'thử').",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A small, stylized campfire with dancing orange and yellow flames is burning gently. Right next to the fire, there is a neatly sealed, white envelope (letter) with a simple stamp, clearly visible. The scene is clean and focused. No text, no words, no letters."
+  },
+  {
+    "word": "trinh phú",
+    "explanation": "Vẽ một người con gái mặc váy trắng tinh khôi, tượng trưng cho sự trinh trắng (trinh). Cô ấy đang đứng giữa một đống tiền vàng hoặc trang sức lấp lánh, thể hiện sự giàu có (phú).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A serene, youthful female character, dressed in a pure white, flowing dress, representing innocence and purity. She is standing gracefully amidst a large pile of sparkling gold coins, treasure chests overflowing with jewels, and stacks of cash, symbolizing immense wealth. The lighting is soft and luxurious. No text, no words, no letters."
+  },
+  {
+    "word": "bản phố",
+    "explanation": "Vẽ một tấm bản đồ (bản). Trên tấm bản đồ đó, có thể thấy rõ các con đường và khu nhà, tượng trưng cho một con phố hoặc khu đô thị (phố).",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A stylized, unfolded map with clearly drawn streets, buildings, and landmarks, showing a cityscape or town layout. The map is displayed prominently on a flat surface. The colors are clear and easy to distinguish. No text, no words, no letters."
+  },
+  {
+    "word": "ngoại hạng",
+    "explanation": "Vẽ một thứ gì đó nằm ở BÊN NGOÀI (ngoại) một hàng rào hoặc đường ranh giới. Kế bên là một chiếc cúp vô địch hoặc huy chương vàng, tượng trưng cho 'hạng' cao nhất.",
+    "imagePrompt": "A 3D render, game mobile style, vibrant colors, clear details. A distinct object (e.g., a soccer ball or a simple star shape) is positioned clearly outside of a defined boundary line or fence. Next to this 'outside' object, there is a gleaming gold championship trophy or a gold medal, symbolizing the highest rank or 'hạng'. The background is simple and highlights the elements. No text, no words, no letters."
+  }
+]
