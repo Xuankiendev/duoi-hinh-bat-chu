@@ -1,0 +1,1602 @@
+[
+  {
+    "image": "images/Anh hào.png",
+    "answer": "Anh hào"
+  },
+  {
+    "image": "images/Ao ước.png",
+    "answer": "Ao ước"
+  },
+  {
+    "image": "images/Ba lô.png",
+    "answer": "Ba lô"
+  },
+  {
+    "image": "images/Ba phải.png",
+    "answer": "Ba phải"
+  },
+  {
+    "image": "images/Ba trợn.png",
+    "answer": "Ba trợn"
+  },
+  {
+    "image": "images/Ba động.png",
+    "answer": "Ba động"
+  },
+  {
+    "image": "images/Bao bì.png",
+    "answer": "Bao bì"
+  },
+  {
+    "image": "images/Bao hàm.png",
+    "answer": "Bao hàm"
+  },
+  {
+    "image": "images/Bao la.png",
+    "answer": "Bao la"
+  },
+  {
+    "image": "images/Bao phủ.png",
+    "answer": "Bao phủ"
+  },
+  {
+    "image": "images/Bao quát.png",
+    "answer": "Bao quát"
+  },
+  {
+    "image": "images/Bao tay.png",
+    "answer": "Bao tay"
+  },
+  {
+    "image": "images/Bao tử.png",
+    "answer": "Bao tử"
+  },
+  {
+    "image": "images/Bi hài.png",
+    "answer": "Bi hài"
+  },
+  {
+    "image": "images/Bi kịch.png",
+    "answer": "Bi kịch"
+  },
+  {
+    "image": "images/Bi quan.png",
+    "answer": "Bi quan"
+  },
+  {
+    "image": "images/Binh mã.png",
+    "answer": "Binh mã"
+  },
+  {
+    "image": "images/Binh đoàn.png",
+    "answer": "Binh đoàn"
+  },
+  {
+    "image": "images/Biển hiệu.png",
+    "answer": "Biển hiệu"
+  },
+  {
+    "image": "images/Bom tấn.png",
+    "answer": "Bom tấn"
+  },
+  {
+    "image": "images/Bu lông.png",
+    "answer": "Bu lông"
+  },
+  {
+    "image": "images/Bà mối.png",
+    "answer": "Bà mối"
+  },
+  {
+    "image": "images/Bà xã.png",
+    "answer": "Bà xã"
+  },
+  {
+    "image": "images/Bài bạc.png",
+    "answer": "Bài bạc"
+  },
+  {
+    "image": "images/Bài học.png",
+    "answer": "Bài học"
+  },
+  {
+    "image": "images/Bài xích.png",
+    "answer": "Bài xích"
+  },
+  {
+    "image": "images/Bàn học.png",
+    "answer": "Bàn học"
+  },
+  {
+    "image": "images/Bàn tán.png",
+    "answer": "Bàn tán"
+  },
+  {
+    "image": "images/Bào ngư.png",
+    "answer": "Bào ngư"
+  },
+  {
+    "image": "images/Bái kiến.png",
+    "answer": "Bái kiến"
+  },
+  {
+    "image": "images/Bán kính.png",
+    "answer": "Bán kính"
+  },
+  {
+    "image": "images/Bán đảo.png",
+    "answer": "Bán đảo"
+  },
+  {
+    "image": "images/Bán độ.png",
+    "answer": "Bán độ"
+  },
+  {
+    "image": "images/Bánh quy.png",
+    "answer": "Bánh quy"
+  },
+  {
+    "image": "images/Bánh răng.png",
+    "answer": "Bánh răng"
+  },
+  {
+    "image": "images/Bánh trái.png",
+    "answer": "Bánh trái"
+  },
+  {
+    "image": "images/Báo mộng.png",
+    "answer": "Báo mộng"
+  },
+  {
+    "image": "images/Báo thức.png",
+    "answer": "Báo thức"
+  },
+  {
+    "image": "images/Báo động.png",
+    "answer": "Báo động"
+  },
+  {
+    "image": "images/Bão giá.png",
+    "answer": "Bão giá"
+  },
+  {
+    "image": "images/Bè lũ.png",
+    "answer": "Bè lũ"
+  },
+  {
+    "image": "images/Bèo bọt.png",
+    "answer": "Bèo bọt"
+  },
+  {
+    "image": "images/Bé bỏng.png",
+    "answer": "Bé bỏng"
+  },
+  {
+    "image": "images/Bí bách.png",
+    "answer": "Bí bách"
+  },
+  {
+    "image": "images/Bí truyền.png",
+    "answer": "Bí truyền"
+  },
+  {
+    "image": "images/Bóng đá.png",
+    "answer": "Bóng đá"
+  },
+  {
+    "image": "images/Bô lão.png",
+    "answer": "Bô lão"
+  },
+  {
+    "image": "images/Bút ký.png",
+    "answer": "Bút ký"
+  },
+  {
+    "image": "images/Bước sóng.png",
+    "answer": "Bước sóng"
+  },
+  {
+    "image": "images/Bạc tình.png",
+    "answer": "Bạc tình"
+  },
+  {
+    "image": "images/Bạn nối khố.png",
+    "answer": "Bạn nối khố"
+  },
+  {
+    "image": "images/Bạo lực.png",
+    "answer": "Bạo lực"
+  },
+  {
+    "image": "images/Bản sao.png",
+    "answer": "Bản sao"
+  },
+  {
+    "image": "images/Bảng cửu chương.png",
+    "answer": "Bảng cửu chương"
+  },
+  {
+    "image": "images/Bảng giá.png",
+    "answer": "Bảng giá"
+  },
+  {
+    "image": "images/Bảo hành.png",
+    "answer": "Bảo hành"
+  },
+  {
+    "image": "images/Bất ngờ.png",
+    "answer": "Bất ngờ"
+  },
+  {
+    "image": "images/Bầu khí quyển.png",
+    "answer": "Bầu khí quyển"
+  },
+  {
+    "image": "images/Bắt bí.png",
+    "answer": "Bắt bí"
+  },
+  {
+    "image": "images/Bắt cóc.png",
+    "answer": "Bắt cóc"
+  },
+  {
+    "image": "images/Bắt mắt.png",
+    "answer": "Bắt mắt"
+  },
+  {
+    "image": "images/Bị cáo.png",
+    "answer": "Bị cáo"
+  },
+  {
+    "image": "images/Bổ sung.png",
+    "answer": "Bổ sung"
+  },
+  {
+    "image": "images/Cam kết.png",
+    "answer": "Cam kết"
+  },
+  {
+    "image": "images/Can gián.png",
+    "answer": "Can gián"
+  },
+  {
+    "image": "images/Can thiệp.png",
+    "answer": "Can thiệp"
+  },
+  {
+    "image": "images/Cao bồi.png",
+    "answer": "Cao bồi"
+  },
+  {
+    "image": "images/Cao kiến.png",
+    "answer": "Cao kiến"
+  },
+  {
+    "image": "images/Casio.png",
+    "answer": "Casio"
+  },
+  {
+    "image": "images/Cau có.png",
+    "answer": "Cau có"
+  },
+  {
+    "image": "images/Chia sẻ.png",
+    "answer": "Chia sẻ"
+  },
+  {
+    "image": "images/Chim sơn ca.png",
+    "answer": "Chim sơn ca"
+  },
+  {
+    "image": "images/Chiến công.png",
+    "answer": "Chiến công"
+  },
+  {
+    "image": "images/Chiến sĩ.png",
+    "answer": "Chiến sĩ"
+  },
+  {
+    "image": "images/Chiếu trúc.png",
+    "answer": "Chiếu trúc"
+  },
+  {
+    "image": "images/Chuẩn xác.png",
+    "answer": "Chuẩn xác"
+  },
+  {
+    "image": "images/Chuối lùn.png",
+    "answer": "Chuối lùn"
+  },
+  {
+    "image": "images/Cháy bỏng.png",
+    "answer": "Cháy bỏng"
+  },
+  {
+    "image": "images/Châm chọc.png",
+    "answer": "Châm chọc"
+  },
+  {
+    "image": "images/Chân thành.png",
+    "answer": "Chân thành"
+  },
+  {
+    "image": "images/Chân thật.png",
+    "answer": "Chân thật"
+  },
+  {
+    "image": "images/Chân trời.png",
+    "answer": "Chân trời"
+  },
+  {
+    "image": "images/Chân tâm.png",
+    "answer": "Chân tâm"
+  },
+  {
+    "image": "images/Chân tướng.png",
+    "answer": "Chân tướng"
+  },
+  {
+    "image": "images/Chân váy.png",
+    "answer": "Chân váy"
+  },
+  {
+    "image": "images/Chín chắn.png",
+    "answer": "Chín chắn"
+  },
+  {
+    "image": "images/Chấm công.png",
+    "answer": "Chấm công"
+  },
+  {
+    "image": "images/Chỉ huy.png",
+    "answer": "Chỉ huy"
+  },
+  {
+    "image": "images/Chỉ số.png",
+    "answer": "Chỉ số"
+  },
+  {
+    "image": "images/Chỉ thị.png",
+    "answer": "Chỉ thị"
+  },
+  {
+    "image": "images/Co kéo.png",
+    "answer": "Co kéo"
+  },
+  {
+    "image": "images/Coi rẻ.png",
+    "answer": "Coi rẻ"
+  },
+  {
+    "image": "images/Cá ngựa.png",
+    "answer": "Cá ngựa"
+  },
+  {
+    "image": "images/Cá nước ngọt.png",
+    "answer": "Cá nước ngọt"
+  },
+  {
+    "image": "images/Cám dỗ.png",
+    "answer": "Cám dỗ"
+  },
+  {
+    "image": "images/Cánh cam.png",
+    "answer": "Cánh cam"
+  },
+  {
+    "image": "images/Cánh đồng.png",
+    "answer": "Cánh đồng"
+  },
+  {
+    "image": "images/Cáo biệt.png",
+    "answer": "Cáo biệt"
+  },
+  {
+    "image": "images/Cáo buộc.png",
+    "answer": "Cáo buộc"
+  },
+  {
+    "image": "images/Cân nhắc.png",
+    "answer": "Cân nhắc"
+  },
+  {
+    "image": "images/Cân não.png",
+    "answer": "Cân não"
+  },
+  {
+    "image": "images/Cân đẩu vân.png",
+    "answer": "Cân đẩu vân"
+  },
+  {
+    "image": "images/Câu cú.png",
+    "answer": "Câu cú"
+  },
+  {
+    "image": "images/Cây mâm xôi.png",
+    "answer": "Cây mâm xôi"
+  },
+  {
+    "image": "images/Cò con.png",
+    "answer": "Cò con"
+  },
+  {
+    "image": "images/Cò cưa.png",
+    "answer": "Cò cưa"
+  },
+  {
+    "image": "images/Công bố.png",
+    "answer": "Công bố"
+  },
+  {
+    "image": "images/Công công.png",
+    "answer": "Công công"
+  },
+  {
+    "image": "images/Công giáo.png",
+    "answer": "Công giáo"
+  },
+  {
+    "image": "images/Công trái.png",
+    "answer": "Công trái"
+  },
+  {
+    "image": "images/Công ty.png",
+    "answer": "Công ty"
+  },
+  {
+    "image": "images/Cú pháp.png",
+    "answer": "Cú pháp"
+  },
+  {
+    "image": "images/Cơ bắp.png",
+    "answer": "Cơ bắp"
+  },
+  {
+    "image": "images/Cơ hội.png",
+    "answer": "Cơ hội"
+  },
+  {
+    "image": "images/Cạnh tranh.png",
+    "answer": "Cạnh tranh"
+  },
+  {
+    "image": "images/Cải cách.png",
+    "answer": "Cải cách"
+  },
+  {
+    "image": "images/Cải tổ.png",
+    "answer": "Cải tổ"
+  },
+  {
+    "image": "images/Cảm tính.png",
+    "answer": "Cảm tính"
+  },
+  {
+    "image": "images/Cảm tử.png",
+    "answer": "Cảm tử"
+  },
+  {
+    "image": "images/Cấm kỵ.png",
+    "answer": "Cấm kỵ"
+  },
+  {
+    "image": "images/Cầm chân.png",
+    "answer": "Cầm chân"
+  },
+  {
+    "image": "images/Cầm thú.png",
+    "answer": "Cầm thú"
+  },
+  {
+    "image": "images/Cần cẩu.png",
+    "answer": "Cần cẩu"
+  },
+  {
+    "image": "images/Cầu cạnh.png",
+    "answer": "Cầu cạnh"
+  },
+  {
+    "image": "images/Cầu mây.png",
+    "answer": "Cầu mây"
+  },
+  {
+    "image": "images/Cầu phao.png",
+    "answer": "Cầu phao"
+  },
+  {
+    "image": "images/Cầu thủ.png",
+    "answer": "Cầu thủ"
+  },
+  {
+    "image": "images/Cầu tiêu.png",
+    "answer": "Cầu tiêu"
+  },
+  {
+    "image": "images/Cỏ gấu.png",
+    "answer": "Cỏ gấu"
+  },
+  {
+    "image": "images/Cổ tức.png",
+    "answer": "Cổ tức"
+  },
+  {
+    "image": "images/Cổ đông.png",
+    "answer": "Cổ đông"
+  },
+  {
+    "image": "images/Cửu vạn.png",
+    "answer": "Cửu vạn"
+  },
+  {
+    "image": "images/Dao lam.png",
+    "answer": "Dao lam"
+  },
+  {
+    "image": "images/Dân phòng.png",
+    "answer": "Dân phòng"
+  },
+  {
+    "image": "images/Dây dưa.png",
+    "answer": "Dây dưa"
+  },
+  {
+    "image": "images/Dầu gió.png",
+    "answer": "Dầu gió"
+  },
+  {
+    "image": "images/Ga trải giường.png",
+    "answer": "Ga trải giường"
+  },
+  {
+    "image": "images/Gai góc.png",
+    "answer": "Gai góc"
+  },
+  {
+    "image": "images/Giao diện.png",
+    "answer": "Giao diện"
+  },
+  {
+    "image": "images/Giao thông.png",
+    "answer": "Giao thông"
+  },
+  {
+    "image": "images/Giao tranh.png",
+    "answer": "Giao tranh"
+  },
+  {
+    "image": "images/Giao điểm.png",
+    "answer": "Giao điểm"
+  },
+  {
+    "image": "images/Giàn khoan.png",
+    "answer": "Giàn khoan"
+  },
+  {
+    "image": "images/Giá lạnh.png",
+    "answer": "Giá lạnh"
+  },
+  {
+    "image": "images/Giá trên trời.png",
+    "answer": "Giá trên trời"
+  },
+  {
+    "image": "images/Gián tiếp.png",
+    "answer": "Gián tiếp"
+  },
+  {
+    "image": "images/Gián điệp.png",
+    "answer": "Gián điệp"
+  },
+  {
+    "image": "images/Giả cầy.png",
+    "answer": "Giả cầy"
+  },
+  {
+    "image": "images/Giải mã.png",
+    "answer": "Giải mã"
+  },
+  {
+    "image": "images/Giải thích.png",
+    "answer": "Giải thích"
+  },
+  {
+    "image": "images/Giấy thông hành.png",
+    "answer": "Giấy thông hành"
+  },
+  {
+    "image": "images/Giờ cao su.png",
+    "answer": "Giờ cao su"
+  },
+  {
+    "image": "images/Gõ kiến.png",
+    "answer": "Gõ kiến"
+  },
+  {
+    "image": "images/Gương chiếu hậu.png",
+    "answer": "Gương chiếu hậu"
+  },
+  {
+    "image": "images/Gương cầu.png",
+    "answer": "Gương cầu"
+  },
+  {
+    "image": "images/Gạch hoa.png",
+    "answer": "Gạch hoa"
+  },
+  {
+    "image": "images/Gối đầu.png",
+    "answer": "Gối đầu"
+  },
+  {
+    "image": "images/Heo hút.png",
+    "answer": "Heo hút"
+  },
+  {
+    "image": "images/Hiệu thuốc.png",
+    "answer": "Hiệu thuốc"
+  },
+  {
+    "image": "images/Ho gà.png",
+    "answer": "Ho gà"
+  },
+  {
+    "image": "images/Hoa bằng lăng.png",
+    "answer": "Hoa bằng lăng"
+  },
+  {
+    "image": "images/Hoa lệ.png",
+    "answer": "Hoa lệ"
+  },
+  {
+    "image": "images/Hoa mắt.png",
+    "answer": "Hoa mắt"
+  },
+  {
+    "image": "images/Hoàng thất.png",
+    "answer": "Hoàng thất"
+  },
+  {
+    "image": "images/Huyền thoại.png",
+    "answer": "Huyền thoại"
+  },
+  {
+    "image": "images/Hài lòng.png",
+    "answer": "Hài lòng"
+  },
+  {
+    "image": "images/Hàm hậu.png",
+    "answer": "Hàm hậu"
+  },
+  {
+    "image": "images/Hàm hồ.png",
+    "answer": "Hàm hồ"
+  },
+  {
+    "image": "images/Hàm ý.png",
+    "answer": "Hàm ý"
+  },
+  {
+    "image": "images/Hàng ngũ.png",
+    "answer": "Hàng ngũ"
+  },
+  {
+    "image": "images/Hành hình.png",
+    "answer": "Hành hình"
+  },
+  {
+    "image": "images/Hành hạ.png",
+    "answer": "Hành hạ"
+  },
+  {
+    "image": "images/Hành khúc.png",
+    "answer": "Hành khúc"
+  },
+  {
+    "image": "images/Hành tinh.png",
+    "answer": "Hành tinh"
+  },
+  {
+    "image": "images/Hành trang.png",
+    "answer": "Hành trang"
+  },
+  {
+    "image": "images/Hào hứng.png",
+    "answer": "Hào hứng"
+  },
+  {
+    "image": "images/Hét ra lửa.png",
+    "answer": "Hét ra lửa"
+  },
+  {
+    "image": "images/Hình bình hành.png",
+    "answer": "Hình bình hành"
+  },
+  {
+    "image": "images/Hòm công đức.png",
+    "answer": "Hòm công đức"
+  },
+  {
+    "image": "images/Hóa thạch.png",
+    "answer": "Hóa thạch"
+  },
+  {
+    "image": "images/Hô hào.png",
+    "answer": "Hô hào"
+  },
+  {
+    "image": "images/Hôn thú.png",
+    "answer": "Hôn thú"
+  },
+  {
+    "image": "images/Hút chân không.png",
+    "answer": "Hút chân không"
+  },
+  {
+    "image": "images/Hạ màn.png",
+    "answer": "Hạ màn"
+  },
+  {
+    "image": "images/Hạ sĩ.png",
+    "answer": "Hạ sĩ"
+  },
+  {
+    "image": "images/Hạn hán.png",
+    "answer": "Hạn hán"
+  },
+  {
+    "image": "images/Hạt nhân.png",
+    "answer": "Hạt nhân"
+  },
+  {
+    "image": "images/Hầu bao.png",
+    "answer": "Hầu bao"
+  },
+  {
+    "image": "images/Hắc lào.png",
+    "answer": "Hắc lào"
+  },
+  {
+    "image": "images/Họa mi.png",
+    "answer": "Họa mi"
+  },
+  {
+    "image": "images/Họa tiết.png",
+    "answer": "Họa tiết"
+  },
+  {
+    "image": "images/Học liên thông.png",
+    "answer": "Học liên thông"
+  },
+  {
+    "image": "images/Học lệch.png",
+    "answer": "Học lệch"
+  },
+  {
+    "image": "images/Học đường.png",
+    "answer": "Học đường"
+  },
+  {
+    "image": "images/Hỏa lực.png",
+    "answer": "Hỏa lực"
+  },
+  {
+    "image": "images/Hỏi cung.png",
+    "answer": "Hỏi cung"
+  },
+  {
+    "image": "images/Hồ ly tinh.png",
+    "answer": "Hồ ly tinh"
+  },
+  {
+    "image": "images/Hồng Tâm.png",
+    "answer": "Hồng Tâm"
+  },
+  {
+    "image": "images/Hồng quân.png",
+    "answer": "Hồng quân"
+  },
+  {
+    "image": "images/Hội chợ.png",
+    "answer": "Hội chợ"
+  },
+  {
+    "image": "images/Hội đồng.png",
+    "answer": "Hội đồng"
+  },
+  {
+    "image": "images/Hứng thú.png",
+    "answer": "Hứng thú"
+  },
+  {
+    "image": "images/Kem chống nắng.png",
+    "answer": "Kem chống nắng"
+  },
+  {
+    "image": "images/Khai thác.png",
+    "answer": "Khai thác"
+  },
+  {
+    "image": "images/Khoai nước.png",
+    "answer": "Khoai nước"
+  },
+  {
+    "image": "images/Khoan hồng.png",
+    "answer": "Khoan hồng"
+  },
+  {
+    "image": "images/Không kích.png",
+    "answer": "Không kích"
+  },
+  {
+    "image": "images/Khế ước.png",
+    "answer": "Khế ước"
+  },
+  {
+    "image": "images/Khổ tâm.png",
+    "answer": "Khổ tâm"
+  },
+  {
+    "image": "images/Kim chỉ nam.png",
+    "answer": "Kim chỉ nam"
+  },
+  {
+    "image": "images/Kinh hoàng.png",
+    "answer": "Kinh hoàng"
+  },
+  {
+    "image": "images/Kinh lược.png",
+    "answer": "Kinh lược"
+  },
+  {
+    "image": "images/Kinh độ.png",
+    "answer": "Kinh độ"
+  },
+  {
+    "image": "images/Kiếm chuyện.png",
+    "answer": "Kiếm chuyện"
+  },
+  {
+    "image": "images/Kiếm tiền.png",
+    "answer": "Kiếm tiền"
+  },
+  {
+    "image": "images/Kiến giải.png",
+    "answer": "Kiến giải"
+  },
+  {
+    "image": "images/Kiến thiết.png",
+    "answer": "Kiến thiết"
+  },
+  {
+    "image": "images/Kiến thức.png",
+    "answer": "Kiến thức"
+  },
+  {
+    "image": "images/Kiểm kê.png",
+    "answer": "Kiểm kê"
+  },
+  {
+    "image": "images/Kiện tướng.png",
+    "answer": "Kiện tướng"
+  },
+  {
+    "image": "images/Kích cầu.png",
+    "answer": "Kích cầu"
+  },
+  {
+    "image": "images/Kích thích.png",
+    "answer": "Kích thích"
+  },
+  {
+    "image": "images/Kích động.png",
+    "answer": "Kích động"
+  },
+  {
+    "image": "images/Kỳ quái.png",
+    "answer": "Kỳ quái"
+  },
+  {
+    "image": "images/Kỳ vĩ.png",
+    "answer": "Kỳ vĩ"
+  },
+  {
+    "image": "images/Kỵ sĩ.png",
+    "answer": "Kỵ sĩ"
+  },
+  {
+    "image": "images/La cà.png",
+    "answer": "La cà"
+  },
+  {
+    "image": "images/Lan can.png",
+    "answer": "Lan can"
+  },
+  {
+    "image": "images/Lang ben.png",
+    "answer": "Lang ben"
+  },
+  {
+    "image": "images/Lang thang.png",
+    "answer": "Lang thang"
+  },
+  {
+    "image": "images/Liên thủ.png",
+    "answer": "Liên thủ"
+  },
+  {
+    "image": "images/Liệt kê.png",
+    "answer": "Liệt kê"
+  },
+  {
+    "image": "images/Lu mờ.png",
+    "answer": "Lu mờ"
+  },
+  {
+    "image": "images/Ly biệt.png",
+    "answer": "Ly biệt"
+  },
+  {
+    "image": "images/Lên mạng.png",
+    "answer": "Lên mạng"
+  },
+  {
+    "image": "images/Lính liên lạc.png",
+    "answer": "Lính liên lạc"
+  },
+  {
+    "image": "images/Lính đảo.png",
+    "answer": "Lính đảo"
+  },
+  {
+    "image": "images/Lòng bàn tay.png",
+    "answer": "Lòng bàn tay"
+  },
+  {
+    "image": "images/Lông bông.png",
+    "answer": "Lông bông"
+  },
+  {
+    "image": "images/Lưỡi lê.png",
+    "answer": "Lưỡi lê"
+  },
+  {
+    "image": "images/Lề mề.png",
+    "answer": "Lề mề"
+  },
+  {
+    "image": "images/Lịch thiệp.png",
+    "answer": "Lịch thiệp"
+  },
+  {
+    "image": "images/Lộ liễu.png",
+    "answer": "Lộ liễu"
+  },
+  {
+    "image": "images/Lợn cắp nách.png",
+    "answer": "Lợn cắp nách"
+  },
+  {
+    "image": "images/Lục lạc.png",
+    "answer": "Lục lạc"
+  },
+  {
+    "image": "images/Lục đục.png",
+    "answer": "Lục đục"
+  },
+  {
+    "image": "images/Lựu đạn.png",
+    "answer": "Lựu đạn"
+  },
+  {
+    "image": "images/Ma cà rồng.png",
+    "answer": "Ma cà rồng"
+  },
+  {
+    "image": "images/Ma mãnh.png",
+    "answer": "Ma mãnh"
+  },
+  {
+    "image": "images/Ma nơ canh.png",
+    "answer": "Ma nơ canh"
+  },
+  {
+    "image": "images/Ba chân bốn cẳng.png",
+    "answer": "Ba chân bốn cẳng"
+  },
+  {
+    "image": "images/Ba cọc ba đồng.png",
+    "answer": "Ba cọc ba đồng"
+  },
+  {
+    "image": "images/Ba miệng một lời.png",
+    "answer": "Ba miệng một lời"
+  },
+  {
+    "image": "images/Ba đầu sáu tay.png",
+    "answer": "Ba đầu sáu tay"
+  },
+  {
+    "image": "images/Bán sống bán chết.png",
+    "answer": "Bán sống bán chết"
+  },
+  {
+    "image": "images/Bình chân như vại.png",
+    "answer": "Bình chân như vại"
+  },
+  {
+    "image": "images/Bình hoa di động.png",
+    "answer": "Bình hoa di động"
+  },
+  {
+    "image": "images/Bó chân bó tay.png",
+    "answer": "Bó chân bó tay"
+  },
+  {
+    "image": "images/Bóng chim tăm cá.png",
+    "answer": "Bóng chim tăm cá"
+  },
+  {
+    "image": "images/Bút sa gà chết.png",
+    "answer": "Bút sa gà chết"
+  },
+  {
+    "image": "images/Bắt cá hai tay.png",
+    "answer": "Bắt cá hai tay"
+  },
+  {
+    "image": "images/Chia năm xẻ bảy.png",
+    "answer": "Chia năm xẻ bảy"
+  },
+  {
+    "image": "images/Chim sa cá lặn.png",
+    "answer": "Chim sa cá lặn"
+  },
+  {
+    "image": "images/Chân ướt chân ráo.png",
+    "answer": "Chân ướt chân ráo"
+  },
+  {
+    "image": "images/Chó treo mèo đậy.png",
+    "answer": "Chó treo mèo đậy"
+  },
+  {
+    "image": "images/Chó ăn đá gà ăn sỏi.png",
+    "answer": "Chó ăn đá gà ăn sỏi"
+  },
+  {
+    "image": "images/Chất độc da cam.png",
+    "answer": "Chất độc da cam"
+  },
+  {
+    "image": "images/Cãi chày cãi cối.png",
+    "answer": "Cãi chày cãi cối"
+  },
+  {
+    "image": "images/Cầm cân nảy mực.png",
+    "answer": "Cầm cân nảy mực"
+  },
+  {
+    "image": "images/Cửu tử nhất sinh.png",
+    "answer": "Cửu tử nhất sinh"
+  },
+  {
+    "image": "images/Dài lưng tốn vải.png",
+    "answer": "Dài lưng tốn vải"
+  },
+  {
+    "image": "images/Kéo cưa lừa xẻ.png",
+    "answer": "Kéo cưa lừa xẻ"
+  },
+  {
+    "image": "images/Ma sát.png",
+    "answer": "Ma sát"
+  },
+  {
+    "image": "images/Ma túy.png",
+    "answer": "Ma túy"
+  },
+  {
+    "image": "images/Mai mối.png",
+    "answer": "Mai mối"
+  },
+  {
+    "image": "images/Mua đường.png",
+    "answer": "Mua đường"
+  },
+  {
+    "image": "images/Má đào.png",
+    "answer": "Má đào"
+  },
+  {
+    "image": "images/Mã hóa.png",
+    "answer": "Mã hóa"
+  },
+  {
+    "image": "images/Mã não.png",
+    "answer": "Mã não"
+  },
+  {
+    "image": "images/Mèo mả gà đồng.png",
+    "answer": "Mèo mả gà đồng"
+  },
+  {
+    "image": "images/Méo mặt.png",
+    "answer": "Méo mặt"
+  },
+  {
+    "image": "images/Môi hở răng lạnh.png",
+    "answer": "Môi hở răng lạnh"
+  },
+  {
+    "image": "images/Môi trường.png",
+    "answer": "Môi trường"
+  },
+  {
+    "image": "images/Mù màu.png",
+    "answer": "Mù màu"
+  },
+  {
+    "image": "images/Mù mờ.png",
+    "answer": "Mù mờ"
+  },
+  {
+    "image": "images/Mũ cao áo dài.png",
+    "answer": "Mũ cao áo dài"
+  },
+  {
+    "image": "images/Mũ cánh chuồn.png",
+    "answer": "Mũ cánh chuồn"
+  },
+  {
+    "image": "images/Mũi nhọn.png",
+    "answer": "Mũi nhọn"
+  },
+  {
+    "image": "images/Mưa bóng mây.png",
+    "answer": "Mưa bóng mây"
+  },
+  {
+    "image": "images/Mạng di động.png",
+    "answer": "Mạng di động"
+  },
+  {
+    "image": "images/Mất mặt.png",
+    "answer": "Mất mặt"
+  },
+  {
+    "image": "images/Mật khẩu.png",
+    "answer": "Mật khẩu"
+  },
+  {
+    "image": "images/Mật thiết.png",
+    "answer": "Mật thiết"
+  },
+  {
+    "image": "images/Mắc lừa.png",
+    "answer": "Mắc lừa"
+  },
+  {
+    "image": "images/Mặt tiền.png",
+    "answer": "Mặt tiền"
+  },
+  {
+    "image": "images/Mỏ vàng.png",
+    "answer": "Mỏ vàng"
+  },
+  {
+    "image": "images/Một mất mười ngờ.png",
+    "answer": "Một mất mười ngờ"
+  },
+  {
+    "image": "images/Một mất một còn.png",
+    "answer": "Một mất một còn"
+  },
+  {
+    "image": "images/Mở màn.png",
+    "answer": "Mở màn"
+  },
+  {
+    "image": "images/Mỹ Tâm.png",
+    "answer": "Mỹ Tâm"
+  },
+  {
+    "image": "images/Mỹ nhân ngư.png",
+    "answer": "Mỹ nhân ngư"
+  },
+  {
+    "image": "images/Mỹ viện.png",
+    "answer": "Mỹ viện"
+  },
+  {
+    "image": "images/Nam bán cầu.png",
+    "answer": "Nam bán cầu"
+  },
+  {
+    "image": "images/Nam châm.png",
+    "answer": "Nam châm"
+  },
+  {
+    "image": "images/Nghệ sĩ nhân dân.png",
+    "answer": "Nghệ sĩ nhân dân"
+  },
+  {
+    "image": "images/Ngoại ô.png",
+    "answer": "Ngoại ô"
+  },
+  {
+    "image": "images/Ngã ngũ.png",
+    "answer": "Ngã ngũ"
+  },
+  {
+    "image": "images/Ngôi sao ca nhạc.png",
+    "answer": "Ngôi sao ca nhạc"
+  },
+  {
+    "image": "images/Ngũ cốc.png",
+    "answer": "Ngũ cốc"
+  },
+  {
+    "image": "images/Ngũ quan.png",
+    "answer": "Ngũ quan"
+  },
+  {
+    "image": "images/Ngựa ô.png",
+    "answer": "Ngựa ô"
+  },
+  {
+    "image": "images/Nhiệt huyết.png",
+    "answer": "Nhiệt huyết"
+  },
+  {
+    "image": "images/Nho nhỏ.png",
+    "answer": "Nho nhỏ"
+  },
+  {
+    "image": "images/Nho sĩ.png",
+    "answer": "Nho sĩ"
+  },
+  {
+    "image": "images/Nhà cao cửa rộng.png",
+    "answer": "Nhà cao cửa rộng"
+  },
+  {
+    "image": "images/Nhà giáo.png",
+    "answer": "Nhà giáo"
+  },
+  {
+    "image": "images/Nhà hát.png",
+    "answer": "Nhà hát"
+  },
+  {
+    "image": "images/Nhà phân lô.png",
+    "answer": "Nhà phân lô"
+  },
+  {
+    "image": "images/Nhà tù.png",
+    "answer": "Nhà tù"
+  },
+  {
+    "image": "images/Nhà ống.png",
+    "answer": "Nhà ống"
+  },
+  {
+    "image": "images/Nhân từ.png",
+    "answer": "Nhân từ"
+  },
+  {
+    "image": "images/Nhân đức.png",
+    "answer": "Nhân đức"
+  },
+  {
+    "image": "images/Nhãn cầu.png",
+    "answer": "Nhãn cầu"
+  },
+  {
+    "image": "images/Nhãn hiệu.png",
+    "answer": "Nhãn hiệu"
+  },
+  {
+    "image": "images/Nhãn tiền.png",
+    "answer": "Nhãn tiền"
+  },
+  {
+    "image": "images/Nhạc cụ.png",
+    "answer": "Nhạc cụ"
+  },
+  {
+    "image": "images/Nhảy lò cò.png",
+    "answer": "Nhảy lò cò"
+  },
+  {
+    "image": "images/Nhảy nhót.png",
+    "answer": "Nhảy nhót"
+  },
+  {
+    "image": "images/Nhẫn tâm.png",
+    "answer": "Nhẫn tâm"
+  },
+  {
+    "image": "images/Nhật ký.png",
+    "answer": "Nhật ký"
+  },
+  {
+    "image": "images/Nhị ca.png",
+    "answer": "Nhị ca"
+  },
+  {
+    "image": "images/Nokia.png",
+    "answer": "Nokia"
+  },
+  {
+    "image": "images/Ném đá giấu tay.png",
+    "answer": "Ném đá giấu tay"
+  },
+  {
+    "image": "images/Nút thắt cổ chai.png",
+    "answer": "Nút thắt cổ chai"
+  },
+  {
+    "image": "images/Nấm mộ.png",
+    "answer": "Nấm mộ"
+  },
+  {
+    "image": "images/Nặng lòng.png",
+    "answer": "Nặng lòng"
+  },
+  {
+    "image": "images/Nặng tình.png",
+    "answer": "Nặng tình"
+  },
+  {
+    "image": "images/Nỏng nảy.png",
+    "answer": "Nỏng nảy"
+  },
+  {
+    "image": "images/Nổi gai ốc.png",
+    "answer": "Nổi gai ốc"
+  },
+  {
+    "image": "images/Nội gián.png",
+    "answer": "Nội gián"
+  },
+  {
+    "image": "images/Nội thất.png",
+    "answer": "Nội thất"
+  },
+  {
+    "image": "images/Pepsi.png",
+    "answer": "Pepsi"
+  },
+  {
+    "image": "images/Phao câu.png",
+    "answer": "Phao câu"
+  },
+  {
+    "image": "images/Phi cơ.png",
+    "answer": "Phi cơ"
+  },
+  {
+    "image": "images/Pháo kích.png",
+    "answer": "Pháo kích"
+  },
+  {
+    "image": "images/Phát giác.png",
+    "answer": "Phát giác"
+  },
+  {
+    "image": "images/Phân bổ.png",
+    "answer": "Phân bổ"
+  },
+  {
+    "image": "images/Phân trần.png",
+    "answer": "Phân trần"
+  },
+  {
+    "image": "images/Phân tử.png",
+    "answer": "Phân tử"
+  },
+  {
+    "image": "images/Phòng không.png",
+    "answer": "Phòng không"
+  },
+  {
+    "image": "images/Phúc hậu.png",
+    "answer": "Phúc hậu"
+  },
+  {
+    "image": "images/Phản đối.png",
+    "answer": "Phản đối"
+  },
+  {
+    "image": "images/Quai bị.png",
+    "answer": "Quai bị"
+  },
+  {
+    "image": "images/Quan ngại.png",
+    "answer": "Quan ngại"
+  },
+  {
+    "image": "images/Quan tâm.png",
+    "answer": "Quan tâm"
+  },
+  {
+    "image": "images/Quy chụp.png",
+    "answer": "Quy chụp"
+  },
+  {
+    "image": "images/Quy củ.png",
+    "answer": "Quy củ"
+  },
+  {
+    "image": "images/Quy hàng.png",
+    "answer": "Quy hàng"
+  },
+  {
+    "image": "images/Quy tắc.png",
+    "answer": "Quy tắc"
+  },
+  {
+    "image": "images/Quán tính.png",
+    "answer": "Quán tính"
+  },
+  {
+    "image": "images/Quân cơ.png",
+    "answer": "Quân cơ"
+  },
+  {
+    "image": "images/Quân hàm.png",
+    "answer": "Quân hàm"
+  },
+  {
+    "image": "images/Quả báo.png",
+    "answer": "Quả báo"
+  },
+  {
+    "image": "images/Quấn quýt.png",
+    "answer": "Quấn quýt"
+  },
+  {
+    "image": "images/Quần thần.png",
+    "answer": "Quần thần"
+  },
+  {
+    "image": "images/Ruột thừa.png",
+    "answer": "Ruột thừa"
+  },
+  {
+    "image": "images/Rút đơn.png",
+    "answer": "Rút đơn"
+  },
+  {
+    "image": "images/Rửa tiền.png",
+    "answer": "Rửa tiền"
+  },
+  {
+    "image": "images/Sai sử.png",
+    "answer": "Sai sử"
+  },
+  {
+    "image": "images/Sam sung.png",
+    "answer": "Sam sung"
+  },
+  {
+    "image": "images/Sao băng.png",
+    "answer": "Sao băng"
+  },
+  {
+    "image": "images/Sành sòi.png",
+    "answer": "Sành sòi"
+  },
+  {
+    "image": "images/Sáng sủa.png",
+    "answer": "Sáng sủa"
+  },
+  {
+    "image": "images/Sâu bệnh.png",
+    "answer": "Sâu bệnh"
+  },
+  {
+    "image": "images/Sâu nặng.png",
+    "answer": "Sâu nặng"
+  },
+  {
+    "image": "images/Sơn bóng.png",
+    "answer": "Sơn bóng"
+  },
+  {
+    "image": "images/Sư tử Hà Đông.png",
+    "answer": "Sư tử Hà Đông"
+  },
+  {
+    "image": "images/Sư tử biển.png",
+    "answer": "Sư tử biển"
+  },
+  {
+    "image": "images/Số trời.png",
+    "answer": "Số trời"
+  },
+  {
+    "image": "images/Số đào hoa.png",
+    "answer": "Số đào hoa"
+  },
+  {
+    "image": "images/Sốt đất.png",
+    "answer": "Sốt đất"
+  },
+  {
+    "image": "images/Sổ hồng.png",
+    "answer": "Sổ hồng"
+  },
+  {
+    "image": "images/Sổ mũi.png",
+    "answer": "Sổ mũi"
+  },
+  {
+    "image": "images/Sổ nhật ký.png",
+    "answer": "Sổ nhật ký"
+  },
+  {
+    "image": "images/Sửa rửa mặt.png",
+    "answer": "Sửa rửa mặt"
+  },
+  {
+    "image": "images/Tai họa.png",
+    "answer": "Tai họa"
+  },
+  {
+    "image": "images/Tam cung lục viện.png",
+    "answer": "Tam cung lục viện"
+  },
+  {
+    "image": "images/Tan đàn xẻ nghé.png",
+    "answer": "Tan đàn xẻ nghé"
+  },
+  {
+    "image": "images/Tay sai.png",
+    "answer": "Tay sai"
+  },
+  {
+    "image": "images/Tay trong.png",
+    "answer": "Tay trong"
+  },
+  {
+    "image": "images/Tay trắng.png",
+    "answer": "Tay trắng"
+  },
+  {
+    "image": "images/Than khóc.png",
+    "answer": "Than khóc"
+  },
+  {
+    "image": "images/Than thở.png",
+    "answer": "Than thở"
+  },
+  {
+    "image": "images/Thiên nga.png",
+    "answer": "Thiên nga"
+  },
+  {
+    "image": "images/Thiên sứ.png",
+    "answer": "Thiên sứ"
+  },
+  {
+    "image": "images/Thiên tai.png",
+    "answer": "Thiên tai"
+  },
+  {
+    "image": "images/Thiên đường.png",
+    "answer": "Thiên đường"
+  },
+  {
+    "image": "images/Thiếu tướng.png",
+    "answer": "Thiếu tướng"
+  },
+  {
+    "image": "images/Thuốc lá.png",
+    "answer": "Thuốc lá"
+  },
+  {
+    "image": "images/Thái độ.png",
+    "answer": "Thái độ"
+  }
+]
