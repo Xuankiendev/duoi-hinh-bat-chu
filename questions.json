@@ -1598,5 +1598,13 @@
   {
     "image": "images/Thái độ.png",
     "answer": "Thái độ"
+  },
+  {
+    "image": "images/Báo cáo.png",
+    "answer": "Báo cáo"
+  },
+  {
+    "image": "images/Ba hoa.png",
+    "answer": "Ba hoa"
   }
 ]
