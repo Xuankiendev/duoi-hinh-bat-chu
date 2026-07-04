@@ -1610,5 +1610,13 @@
   {
     "image": "images/Vùng đệm.png",
     "answer": "Vùng đệm"
+  },
+  {
+    "image": "images/Cát tường.png",
+    "answer": "Cát tường"
+  },
+  {
+    "image": "images/Thất tình.png",
+    "answer": "Thất tình"
   }
 ]
